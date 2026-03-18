@@ -466,14 +466,19 @@
                 <h3>Información de Empleado</h3>
                 <p><strong>Login:</strong> ${employee.login}</p>
                 <p><strong>Área:</strong> ${empArea}</p>
-                <p><strong>Turno:</strong> ${empTurno || 'No asignado'}</p>
             `;
 
-            // Filtrar por área Y turno
+            // Semana actual
+            const wk1Start = new Date(2025, 11, 28);
+            const today = new Date();
+            const currentWeek = Math.floor((today - wk1Start) / (7 * 24 * 60 * 60 * 1000)) + 1;
+
+            // Filtrar por área Y turno, excluyendo semanas pasadas
             const rowData = vacationProjection
                 .filter(item =>
                     (item.Area  || '').toUpperCase() === empArea &&
-                    (item.Turno || '').toUpperCase() === empTurno
+                    (item.Turno || '').toUpperCase() === empTurno &&
+                    (item.Week  || 0) >= currentWeek
                 )
                 .sort((a, b) => (a.Week || 0) - (b.Week || 0));
 
@@ -487,7 +492,6 @@
                     <thead>
                         <tr>
                             <th>Semana</th>
-                            <th>Turno</th>
                             <th>Disponibilidad</th>
                             <th>Estado</th>
                         </tr>
@@ -513,7 +517,7 @@
                 }
 
                 const weekDates   = getWeekDateRange(week);
-                const tooltipText = `${weekDates} — ${hours}h disponibles`;
+                const tooltipText = weekDates;
 
                 tableHTML += `
                     <tr>
@@ -521,7 +525,6 @@
                             <strong>Semana ${week}</strong>
                             <div class="week-tooltip">${tooltipText}</div>
                         </td>
-                        <td>${turno}</td>
                         <td class="hours-cell ${hoursClass}">&nbsp;</td>
                         <td>${status}</td>
                     </tr>
