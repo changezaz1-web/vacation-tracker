@@ -1,5770 +1,6923 @@
 {
-  "last_updated": "2026-03-18T08:31:01.781217",
+  "last_updated": "2026-03-18T08:42:10.880668",
   "employee_mapping": [
     {
       "area": "RECEIVE",
       "login": "johaberr",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "aroyolos",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "dinokriv",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SHIP",
       "login": "falcosme",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "IB DOCK",
       "login": "breimari",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "caigucar",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "olopezcu",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "IB DOCK",
       "login": "diramosc",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "RECEIVE",
       "login": "guercrim",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "vargamah",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "clapilla",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "RECEIVE",
       "login": "quezjes",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "RECEIVE",
       "login": "msmariag",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "alefrati",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "ICQA",
       "login": "tochrisa",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SHIP",
       "login": "vanxstep",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "torantoj",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "auparada",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "kluisaac",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "joqga",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "RECEIVE",
       "login": "jdansan",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "aguijjul",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "IB DOCK",
       "login": "sillhagi",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "ICQA",
       "login": "ainaborr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "zouinabm",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "PALLETIZE",
       "login": "tsaravir",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SHIP",
       "login": "carlofga",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "TOM",
       "login": "robzruiz",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SHIP",
       "login": "fcgabrie",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SHIP",
       "login": "lisbetre",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "IB DOCK",
       "login": "brahinac",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "meriztav",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "IB DOCK",
       "login": "ascerika",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "RECEIVE",
       "login": "ijesmari",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "RECEIVE",
       "login": "malacamb",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SORTATION",
       "login": "bracgerm",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "PALLETIZE",
       "login": "pideysit",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "paladiev",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "FLOW",
       "login": "caizjene",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SHIP",
       "login": "ecastifa",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "diattahv",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "luimcand",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "IB DOCK",
       "login": "vcronald",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "troncejo",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "tsuhayli",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "anaalexs",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "garjennu",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "ICQA",
       "login": "xgordils",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "madtalla",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "fwilchab",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "angeldba",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "uacejuli",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "samuquew",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "teranda",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "chivnicq",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "TOM",
       "login": "casergig",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "PALLETIZE",
       "login": "mendegra",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "RECEIVE",
       "login": "cyuleini",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "RECEIVE",
       "login": "espinlap",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SHIP",
       "login": "rojasrox",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "IB DOCK",
       "login": "abdabouf",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "viejosem",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "TOM",
       "login": "fitnvero",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "FLOW",
       "login": "rttrpr",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Casas Delgado,Jorge"
     },
     {
       "area": "ICQA",
       "login": "hmartari",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "RECEIVE",
       "login": "gjoalema",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "moranosw",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "xmargamb",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "carlosip",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "KARIBA",
       "login": "mosoleda",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SHIP",
       "login": "stepdveg",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SHIP",
       "login": "hjoselgo",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SHIP",
       "login": "rusbelga",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "britoseb",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "sizamunf",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "mauquina",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "ICQA",
       "login": "balsekat",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "ICQA",
       "login": "gdmonica",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "ICQA",
       "login": "keylacec",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "FLOW",
       "login": "cesxcard",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "IB DOCK",
       "login": "yjbarcia",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "opeopera",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "juliaugr",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "gduncmat",
-      "turno": null
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "RECEIVE",
       "login": "schetgae",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "TOM",
       "login": "peiraeca",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "loahanna",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "cidmedua",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "lenrinco",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SHIP",
       "login": "clgaviri",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "IB DOCK",
       "login": "ibrxrama",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "cheiknia",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "FLOW",
       "login": "sofiherv",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Casas Delgado,Jorge"
     },
     {
       "area": "ICQA",
       "login": "jauesthe",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "RECEIVE",
       "login": "itriagin",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "IB DOCK",
       "login": "frleongo",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "tmarimel",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "qmaripal",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "lgraciam",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "ldanieve",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "pefrorta",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "IB DOCK",
       "login": "rebsivir",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "ogustavh",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "gcevamar",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "boleedit",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "gordiall",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "ismadeh",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SHIP",
       "login": "yaizlope",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SHIP",
       "login": "mmarmaza",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SHIP",
       "login": "tomastji",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "ICQA",
       "login": "mlimolin",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "villavyu",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "daylethe",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "RECEIVE",
       "login": "galeasca",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "RECEIVE",
       "login": "devillil",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "pcaveron",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "heidrams",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "bmihmoca",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "ICQA",
       "login": "dgomaran",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "RECEIVE",
       "login": "ltsergio",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "ramiljor",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "sosayjen",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "FLOW",
       "login": "pueyorau",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "ICQA",
       "login": "zagalvex",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SORTATION",
       "login": "rfrvarga",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "dyoelmar",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "ysijean",
-      "turno": null
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "TOM",
       "login": "nrivasde",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "RECEIVE",
       "login": "leonngal",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "namyduqu",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "IB DOCK",
       "login": "jhaugonz",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "ginessan",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "TOM",
       "login": "aeterron",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "TOM",
       "login": "henryor",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "ioanmval",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "ICQA",
       "login": "sinaesca",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "TOM",
       "login": "ldavifer",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SHIP",
       "login": "sarghern",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "ftabarel",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "KARIBA",
       "login": "mendjuaq",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SORTATION",
       "login": "fiallojo",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "IB DOCK",
       "login": "osoricam",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SHIP",
       "login": "gkaterch",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "TOM",
       "login": "sruizlop",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "ICQA",
       "login": "oseslash",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "RECEIVE",
       "login": "nbarysev",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "IB DOCK",
       "login": "nephectn",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "lopegmon",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "ronagfra",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "ramyarit",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "ydserran",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "ainhoafr",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "karocede",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SHIP",
       "login": "kdiopmam",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "IB DOCK",
       "login": "roslynaf",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "alejgomt",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "rgarcwil",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "ICQA",
       "login": "pardoveg",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SHIP",
       "login": "berladri",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "marialyl",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "guarecuc",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "IB DOCK",
       "login": "barartea",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "evelinnb",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "gomeztaj",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "ICQA",
       "login": "irencama",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SHIP",
       "login": "rajuliop",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "RECEIVE",
       "login": "uangmore",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SHIP",
       "login": "ualboudh",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "henrfjod",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "FLOW",
       "login": "leogb",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SHIP",
       "login": "gsaamali",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "ICQA",
       "login": "sarmaesa",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SHIP",
       "login": "bolivsan",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "PALLETIZE",
       "login": "veroquim",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "toribiwi",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "bpedmora",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "wisabelc",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "IB DOCK",
       "login": "ajavigue",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "loppjona",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "saifranc",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "angegoq",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "guerjuah",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "IB DOCK",
       "login": "gatcarme",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "lederuth",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "juizquib",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "RECEIVE",
       "login": "pinedgre",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "orangedu",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "IB DOCK",
       "login": "osupedrp",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "ocambdav",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "wrocreca",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "IB DOCK",
       "login": "salsnava",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "IB DOCK",
       "login": "valezulu",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "SORTATION",
       "login": "johanhur",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "migfonsn",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "TOM",
       "login": "pevelaja",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "qpmariam",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "salazhro",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "riascoai",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "FLOW",
       "login": "qaalvare",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "RECEIVE",
       "login": "rangkath",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "chavcjho",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "KARIBA",
       "login": "vicanodi",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "IB DOCK",
       "login": "mtijarog",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "SORTATION",
       "login": "dmmnte",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "RECEIVE",
       "login": "fmonanto",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "lemoralp",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "lorenazh",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "IB DOCK",
       "login": "gvirmart",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "rodriied",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "sajohanj",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "ICQA",
       "login": "begonrom",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "ICQA",
       "login": "testefal",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SHIP",
       "login": "draithad",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "IB DOCK",
       "login": "roturbip",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SHIP",
       "login": "cayyanip",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "osmanyto",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "nataroyo",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "IB DOCK",
       "login": "mtrilloa",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "TOM",
       "login": "rlazaroj",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SHIP",
       "login": "perbetzi",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "hlucarre",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "TOM",
       "login": "eduoblas",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "RECEIVE",
       "login": "garcmelb",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "IB DOCK",
       "login": "ricarzsa",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "vlobofer",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "FLOW",
       "login": "bolaiver",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SHIP",
       "login": "yhandito",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "PALLETIZE",
       "login": "calveloj",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "PALLETIZE",
       "login": "valiceth",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "IB DOCK",
       "login": "hernbman",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "TOM",
       "login": "jriadolf",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "PALLETIZE",
       "login": "ernelanw",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "IB DOCK",
       "login": "ygoncar",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "RECEIVE",
       "login": "xperhect",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "RECEIVE",
       "login": "silvlvar",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "elenamgi",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "rleanvie",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "jxuzcate",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SHIP",
       "login": "krioagus",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "IB DOCK",
       "login": "willpahy",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "kpiscsan",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "braymeve",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "sanymoni",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "joseminu",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "bonijoha",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "pimences",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "FLOW",
       "login": "luismaji",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SORTATION",
       "login": "tobrendn",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "enlavini",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "rheliana",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "KARIBA",
       "login": "dlaudelg",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SHIP",
       "login": "anadmar",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SHIP",
       "login": "nespiayu",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "carberdi",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "yaparced",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "IB DOCK",
       "login": "tandazoc",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "villzaqu",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "RECEIVE",
       "login": "armerofy",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "IB DOCK",
       "login": "diezmaru",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "IB DOCK",
       "login": "reibalma",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "alzahval",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SHIP",
       "login": "ailorent",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "qavicent",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "lozyulyd",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "sanpedma",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "jamarwab",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SHIP",
       "login": "pjonatri",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "sergdald",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "ICQA",
       "login": "dayanaow",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "KARIBA",
       "login": "josearin",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SORTATION",
       "login": "peribalb",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "diazgaoi",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "FLOW",
       "login": "angelmoq",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "ICQA",
       "login": "marcojer",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SORTATION",
       "login": "dcatanov",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "RECEIVE",
       "login": "hugoajei",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SHIP",
       "login": "evalapu",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "zaratecm",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "rquintaz",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "ICQA",
       "login": "albudaca",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "ICQA",
       "login": "bobisesl",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SORTATION",
       "login": "amelymia",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "edyolesq",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "IB DOCK",
       "login": "fcaridat",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "IB DOCK",
       "login": "maradfre",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "nuneanah",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "IB DOCK",
       "login": "giancuzc",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "asmaribe",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "yelitgoe",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "javiegiy",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "ICQA",
       "login": "noaanton",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SHIP",
       "login": "jenascen",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "ICQA",
       "login": "fulmariq",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "sanmsara",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "estremao",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "burgfern",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "fmontens",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "IB DOCK",
       "login": "pratmarj",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "ruucleme",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "FLOW",
       "login": "nelenaro",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SHIP",
       "login": "cbrajhan",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SHIP",
       "login": "marcopjo",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "zunluisi",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "bettestr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "pfanntom",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "jesuvvas",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "arandriv",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "trakadiz",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "FLOW",
       "login": "strolean",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "FLOW",
       "login": "lelianlo",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "KARIBA",
       "login": "lopezmop",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SHIP",
       "login": "dsreyesr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "dianmonq",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "aniasgon",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "TOM",
       "login": "albegenz",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "RECEIVE",
       "login": "josandrm",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "RECEIVE",
       "login": "rperniab",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "IB DOCK",
       "login": "dafandos",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "glugomon",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "vidaljo",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "TOM",
       "login": "gradroxa",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "esmaelth",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "IB DOCK",
       "login": "yohguill",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "pwalmanz",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "rcrhisti",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "TOM",
       "login": "hemartad",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "RECEIVE",
       "login": "safrajae",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "ncantale",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "TOM",
       "login": "arquigra",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "jnahomym",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "aalemanc",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "rocebrya",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "IB DOCK",
       "login": "sajorged",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "davidpio",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "amontanr",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "IB DOCK",
       "login": "rvejesus",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "KARIBA",
       "login": "nlorcris",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "ICQA",
       "login": "emilloai",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "IB DOCK",
       "login": "nalcalmi",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "KARIBA",
       "login": "casajc",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "PALLETIZE",
       "login": "lpesilvi",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "krufatim",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "qjorgher",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SHIP",
       "login": "sarpinab",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "barranlu",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "TOM",
       "login": "hemigur",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "TOM",
       "login": "lopezcjl",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "ICQA",
       "login": "drodocor",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "IB DOCK",
       "login": "lalemacr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "RECEIVE",
       "login": "juancsfe",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "IB DOCK",
       "login": "joselujf",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "anademar",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "soscaral",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SHIP",
       "login": "brysimoz",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "xperercr",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "PALLETIZE",
       "login": "rodricet",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "ICQA",
       "login": "perezigl",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SHIP",
       "login": "hinmacga",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "TOM",
       "login": "darioata",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "moselmal",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "luzslena",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "IB DOCK",
       "login": "jonesgfl",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "PALLETIZE",
       "login": "tarebeca",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "cdomipat",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "alarcofl",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "ICQA",
       "login": "agnzal",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "RECEIVE",
       "login": "sirlekfl",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SHIP",
       "login": "barretzm",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "dicroxan",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "villeyur",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "TOM",
       "login": "riramost",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SHIP",
       "login": "rafazval",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "vmendejo",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "pepvgarc",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "bmaritma",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "tcabalvi",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "ICQA",
       "login": "sojluis",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SORTATION",
       "login": "tienjand",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "kmonvale",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "alifonan",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "luimdami",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "holgvivi",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "ajgenzor",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "roctorrc",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "rpejesus",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "poscgime",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "tmalabra",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "aanarive",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "aivexpos",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "SHIP",
       "login": "josualeo",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "RECEIVE",
       "login": "bmenalej",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "TOM",
       "login": "colonmma",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "revferre",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "gjorfran",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "IB DOCK",
       "login": "maligiaf",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "dmiraeli",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "odaysant",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "FLOW",
       "login": "ferandia",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "RECEIVE",
       "login": "salaurav",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "rodgleni",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "elenilsr",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "digleiva",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "cruzmorv",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "saulydel",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "RECEIVE",
       "login": "trresee",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "daurizvs",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "vgsuarez",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "astridhe",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "zcarbelt",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "oguejavi",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "RECEIVE",
       "login": "mosantic",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "ciportie",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "marmarqi",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "RECEIVE",
       "login": "barrcriz",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "FLOW",
       "login": "gfmariac",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SHIP",
       "login": "nmejivir",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "zsletici",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "mungugei",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "FLOW",
       "login": "torreag",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "PALLETIZE",
       "login": "tgometho",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "TOM",
       "login": "feygarci",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SHIP",
       "login": "pegascon",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "PALLETIZE",
       "login": "femarquq",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "RECEIVE",
       "login": "monteelg",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "ICQA",
       "login": "denibany",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "IB DOCK",
       "login": "silviaqr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "rodkangy",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "spablocl",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "ICQA",
       "login": "garupatr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "RECEIVE",
       "login": "lqeddame",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "ICQA",
       "login": "beatrcua",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "IB DOCK",
       "login": "nmimiran",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "ribeirwl",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "joalhasd",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "enavafra",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "sserosca",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SHIP",
       "login": "otojesu",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "eamaring",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "PALLETIZE",
       "login": "sanzerna",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "rodrioyh",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "efernlin",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "deisyvan",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "carxmend",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "vivgalle",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "dayrbnar",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "dingineb",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "RECEIVE",
       "login": "montsbma",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "ICQA",
       "login": "carpijor",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SORTATION",
       "login": "navarmav",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "raulyube",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "ICQA",
       "login": "eblancoc",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SORTATION",
       "login": "raqartay",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "TOM",
       "login": "xalviscc",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "ICQA",
       "login": "narzambr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "herreesg",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "yurbetan",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "qansanc",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "roghenea",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "betanvic",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "octajoaq",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "ICQA",
       "login": "velagasc",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "TOM",
       "login": "magalcab",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "KARIBA",
       "login": "fernahej",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SORTATION",
       "login": "dhquiroz",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "gomezvim",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "xnaomiro",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "fabiodam",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SHIP",
       "login": "sincardo",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "IB DOCK",
       "login": "hmayandi",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "lanacaba",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "davxnava",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "racristn",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "RECEIVE",
       "login": "guevarib",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "gujavila",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "IB DOCK",
       "login": "fegjosel",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "jospayal",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "ICQA",
       "login": "evgarayf",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SHIP",
       "login": "shaberan",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "jhuliann",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "oandrbel",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "jaimgloz",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "sandhcas",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "claraagu",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "sodiazro",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "IB DOCK",
       "login": "diezorer",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "halvaarm",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "crcampog",
-      "turno": null
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "RECEIVE",
       "login": "sdsanch",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "IB DOCK",
       "login": "frnriver",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SHIP",
       "login": "dlluque",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "FLOW",
       "login": "jolasoug",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Casas Delgado,Jorge"
     },
     {
       "area": "TOM",
       "login": "alvlopeh",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "KARIBA",
       "login": "nicruizr",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "IB DOCK",
       "login": "yleocelm",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "RECEIVE",
       "login": "rofranei",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "joaqiban",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "cuejessh",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "jeymherr",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "lsandovn",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "KARIBA",
       "login": "bravoria",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SHIP",
       "login": "zacervic",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "RECEIVE",
       "login": "lausiedr",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "estrangz",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "candokat",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "congolij",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "PALLETIZE",
       "login": "rodpcarl",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "ICQA",
       "login": "frankjba",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "RECEIVE",
       "login": "miloscar",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "ICQA",
       "login": "solerrem",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "IB DOCK",
       "login": "henryapa",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "RECEIVE",
       "login": "sergalvp",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "ICQA",
       "login": "gemarcil",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SORTATION",
       "login": "zambcarp",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "eliasral",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SHIP",
       "login": "josevete",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "RECEIVE",
       "login": "yennrome",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "gazurita",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "alayeton",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "kcanavas",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "matutebo",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "aranolga",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "RECEIVE",
       "login": "fauvilch",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "ICQA",
       "login": "donacajo",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "ICQA",
       "login": "osorkimb",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "RECEIVE",
       "login": "ggonfran",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SHIP",
       "login": "ormandyp",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "laujriva",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "aalfojim",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "munozfig",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "medwuisn",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "andlmira",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "RECEIVE",
       "login": "navjaasi",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "joseanla",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "ecaucnat",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "alriolsj",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "vsperezp",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "zuvillam",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "osbyeral",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SHIP",
       "login": "franyema",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "TOM",
       "login": "abadifer",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "ymelagar",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "RECEIVE",
       "login": "meguedez",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "RECEIVE",
       "login": "contardp",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "ollaidel",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "TOM",
       "login": "basagran",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "helizara",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "blascoal",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "ICQA",
       "login": "mariaisd",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "IB DOCK",
       "login": "miguehel",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "SHIP",
       "login": "zshirlem",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "TOM",
       "login": "dloshuer",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "osmartih",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "IB DOCK",
       "login": "abreugon",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "IB DOCK",
       "login": "gdamart",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "RECEIVE",
       "login": "zeghlaou",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "TOM",
       "login": "josehbuv",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "bkyasmin",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "mkellbet",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "ICQA",
       "login": "gomezviz",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SHIP",
       "login": "dnmariad",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "vaatenci",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "rodrinaz",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SHIP",
       "login": "cuellonl",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "RECEIVE",
       "login": "adrimorl",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "IB DOCK",
       "login": "edwaala",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SHIP",
       "login": "guerrmiv",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "IB DOCK",
       "login": "anmvicto",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "lasloufa",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "TOM",
       "login": "mendlerm",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "sepulvcl",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "IB DOCK",
       "login": "wjferruf",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "guayasal",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "KARIBA",
       "login": "fernaleg",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SORTATION",
       "login": "joseesla",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "grachhen",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "tenaguir",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "silvnaba",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "oscarmok",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "ICQA",
       "login": "zroalman",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "ICQA",
       "login": "mariatxm",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SHIP",
       "login": "dizadama",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "RECEIVE",
       "login": "ccarlogo",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "utrilmar",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "genesbez",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "ICQA",
       "login": "hecbedoy",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SHIP",
       "login": "levbaneu",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "FLOW",
       "login": "justcots",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Casas Delgado,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "zafrilca",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "SORTATION",
       "login": "laurnfra",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "gianuelb",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "zdaurisj",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "ICQA",
       "login": "mapitorr",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "ICQA",
       "login": "olivjcar",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SORTATION",
       "login": "nailpere",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "osorcami",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "RECEIVE",
       "login": "payferic",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "IB DOCK",
       "login": "patsmedi",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "artaljou",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "rombethe",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "IB DOCK",
       "login": "liabperl",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "TOM",
       "login": "rosergik",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "RECEIVE",
       "login": "molinsed",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "pyaraagu",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "esthepaz",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "otaromar",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "ojesmend",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "RECEIVE",
       "login": "espanarw",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "lquixaba",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "garcldav",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "jesssani",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "ICQA",
       "login": "berniamm",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "IB DOCK",
       "login": "rodgracc",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "SORTATION",
       "login": "koscarag",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "mmarinde",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SHIP",
       "login": "ugraciar",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "ICQA",
       "login": "bmagarc",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SORTATION",
       "login": "ocamponf",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "IB DOCK",
       "login": "lveclaud",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "ICQA",
       "login": "inmactor",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SORTATION",
       "login": "esthermc",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "ICQA",
       "login": "tjulisir",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "PALLETIZE",
       "login": "gerasegu",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "capaolax",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "PALLETIZE",
       "login": "chibaoca",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "IB DOCK",
       "login": "vhluisma",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "lsaaveos",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "KARIBA",
       "login": "ienriqul",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SORTATION",
       "login": "xkelmora",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "PALLETIZE",
       "login": "lepradoc",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "KARIBA",
       "login": "viniccos",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SHIP",
       "login": "lrobandr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SHIP",
       "login": "emayerly",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "RECEIVE",
       "login": "mhalvaro",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "IB DOCK",
       "login": "mioaramu",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "cgarcizu",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "FLOW",
       "login": "claraiso",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SORTATION",
       "login": "fjujuand",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "mrojascr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "lihelisa",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "jeffryje",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "modamiob",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "gonzalwh",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "TOM",
       "login": "tanasila",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "enriqvma",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "ujoselal",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "TOM",
       "login": "uvalegui",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "FLOW",
       "login": "isacores",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Casas Delgado,Jorge"
     },
     {
       "area": "SHIP",
       "login": "xsanmart",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "IB DOCK",
       "login": "mabalt",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "cadidiek",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SHIP",
       "login": "naurgile",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "IB DOCK",
       "login": "florijav",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "ICQA",
       "login": "lramonag",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "TOM",
       "login": "trenadoh",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "KARIBA",
       "login": "radaivas",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SHIP",
       "login": "kdiomirg",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "kcasang",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "eavillal",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "jbxibrah",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "oraquebe",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "sjefmend",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "FLOW",
       "login": "lopemirp",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "RECEIVE",
       "login": "alicicfa",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "ICQA",
       "login": "ingrpazz",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "ICQA",
       "login": "noelondi",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "ICQA",
       "login": "mjairili",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SORTATION",
       "login": "salaspaj",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "amineedd",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "luncarma",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "alimarav",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "nlucelto",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "IB DOCK",
       "login": "abostinq",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "IB DOCK",
       "login": "gabugarc",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "yairbalt",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "deherref",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "girajefe",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "casepedr",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "ocasergs",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "escanada",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "vginelui",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "TOM",
       "login": "dpabsant",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "RECEIVE",
       "login": "merizaer",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "TOM",
       "login": "sgracima",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "PALLETIZE",
       "login": "tgonmaur",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "madtovar",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "yamiraal",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "ICQA",
       "login": "maanguls",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "mancufra",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "goncamlu",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SHIP",
       "login": "diazzapv",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "RECEIVE",
       "login": "hornospa",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SORTATION",
       "login": "sancjuav",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "oscarclq",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "daniortj",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "hgomangi",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "millanmd",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "RECEIVE",
       "login": "ibandrei",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SHIP",
       "login": "marcodah",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "IB DOCK",
       "login": "zlazarov",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "ruelasur",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "plasclau",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "soufboua",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "pardoluy",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "ynoeliam",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "bmoraoli",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "ICQA",
       "login": "alemsala",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "IB DOCK",
       "login": "marchauc",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SHIP",
       "login": "lunkevis",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "KARIBA",
       "login": "ltrojasr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "IB DOCK",
       "login": "elogarga",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "TOM",
       "login": "jmartiey",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "benesusa",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "RECEIVE",
       "login": "paarabia",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SHIP",
       "login": "robalmel",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "TOM",
       "login": "xenchris",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "sernmare",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "sediezma",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "vlopeosc",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "sligiade",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "pilooset",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "SHIP",
       "login": "pxroland",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SORTATION",
       "login": "mmarioi",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "moreyngr",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "IB DOCK",
       "login": "calerobf",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "IB DOCK",
       "login": "uzhcedis",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "IB DOCK",
       "login": "natikhal",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "kalmonac",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "jgmarin",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "ICQA",
       "login": "dkarelys",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "IB DOCK",
       "login": "baigorrp",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "RECEIVE",
       "login": "janiakri",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "fernteli",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "rosamama",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "FLOW",
       "login": "mqhinojo",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "RECEIVE",
       "login": "pablocle",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "ramnjona",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "mausancp",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "pacristh",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "evalazaw",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "visanztr",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "daguarid",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "TOM",
       "login": "danieroz",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "ivaesteb",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "beatrcah",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "lopdulva",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "calpedrr",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "IB DOCK",
       "login": "verdesoh",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "IB DOCK",
       "login": "wvertruj",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "maruzcat",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "amonterq",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "zuluajoe",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SHIP",
       "login": "wilrodrs",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SHIP",
       "login": "outnsana",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "ireneoes",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "angieabr",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SHIP",
       "login": "zucesars",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "ICQA",
       "login": "zquixavi",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "PALLETIZE",
       "login": "lisbeoso",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "IB DOCK",
       "login": "rjoselco",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "RECEIVE",
       "login": "rovictom",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "souldobi",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SHIP",
       "login": "alejgomg",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "hostalea",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "sangitzi",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "enmartiz",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "nunezvam",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "itrarodr",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "dobravog",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SHIP",
       "login": "smusnt",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "IB DOCK",
       "login": "xilefhoy",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "grangabb",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "TOM",
       "login": "araquean",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "FLOW",
       "login": "mojohnan",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "IB DOCK",
       "login": "soubench",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "hornocpa",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "PALLETIZE",
       "login": "jafperei",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "areinjes",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "mabmiran",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "ICQA",
       "login": "tcarpint",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SORTATION",
       "login": "gemayorg",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "ICQA",
       "login": "xliviama",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "IB DOCK",
       "login": "bcebrian",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "RECEIVE",
       "login": "pferguer",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "calpilar",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "npulidon",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "liolgael",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "parejbea",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "rrferran",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "KARIBA",
       "login": "grimgemm",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "IB DOCK",
       "login": "uedlrond",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "kaguayol",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "khatiran",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "qmarinma",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "varellor",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SHIP",
       "login": "zocjpaol",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "RECEIVE",
       "login": "mimohimh",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SHIP",
       "login": "arizalig",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "mmiranch",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "utreraal",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "SHIP",
       "login": "kchamsan",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "ICQA",
       "login": "oscacane",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SORTATION",
       "login": "abelbrac",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "rgenique",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "aggariel",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "TOM",
       "login": "fhamdani",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "swfjt",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "kvalecec",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "qsillhag",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "KARIBA",
       "login": "munuedga",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SORTATION",
       "login": "bacarmek",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "jenzbrav",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "rubsaldn",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "luctaria",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "jestipan",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "moluikyn",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "wyahiabe",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "RECEIVE",
       "login": "bbolivaz",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "RECEIVE",
       "login": "borraest",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "lozjonav",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "zmarcdas",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "IB DOCK",
       "login": "qadrigra",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "efrasoga",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "escobgre",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SHIP",
       "login": "anquilee",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "RECEIVE",
       "login": "alexagfu",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "RECEIVE",
       "login": "kmaromer",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "PALLETIZE",
       "login": "villarhx",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "IB DOCK",
       "login": "ocamvdia",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "esmangue",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "RECEIVE",
       "login": "ialydiar",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "IB DOCK",
       "login": "aguicarq",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "castdeis",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "caldalba",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "franypaz",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "spachecj",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "KARIBA",
       "login": "migremac",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "IB DOCK",
       "login": "suarkpas",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "FLOW",
       "login": "mlidoyre",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SORTATION",
       "login": "migundel",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "indgonza",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "hoyolgak",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "RECEIVE",
       "login": "nunezbma",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "solvesee",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "sanjnoel",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "majobech",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "elispard",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "TOM",
       "login": "raulcant",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "espejoda",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "zmartcar",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "SORTATION",
       "login": "mgerardk",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "IB DOCK",
       "login": "gangelew",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "ICQA",
       "login": "kcabrerk",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "FLOW",
       "login": "josedula",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "IB DOCK",
       "login": "micmigui",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "mcarld",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "IB DOCK",
       "login": "cogsilvi",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "IB DOCK",
       "login": "hrromelv",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "IB DOCK",
       "login": "casasibe",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "ICQA",
       "login": "villadah",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "RECEIVE",
       "login": "hjawaraf",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "FLOW",
       "login": "jamesres",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "TOM",
       "login": "cubebmar",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "lcacerew",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "calderjs",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "qdomiviv",
-      "turno": null
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "IB DOCK",
       "login": "tamjuanz",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "ICQA",
       "login": "gvaleroe",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SHIP",
       "login": "alcovado",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "IB DOCK",
       "login": "jgascone",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "perezuba",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "ICQA",
       "login": "hsoniago",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SORTATION",
       "login": "morkosca",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "paiperez",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Trzeciak,Cayetano"
     },
     {
       "area": "RECEIVE",
       "login": "mtamired",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SORTATION",
       "login": "almishel",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "lopewma",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "berronoe",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "lunokevi",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "TOM",
       "login": "gabvasis",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "TOM",
       "login": "fuertdav",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "parragoa",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "PALLETIZE",
       "login": "cerrotem",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SHIP",
       "login": "omayraal",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "FLOW",
       "login": "moprieto",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "RECEIVE",
       "login": "vsjohanc",
-      "turno": null
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "KARIBA",
       "login": "osergioa",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SORTATION",
       "login": "tareyesj",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "gadjohan",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "crmguill",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "pedualfr",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "cuevajow",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "RECEIVE",
       "login": "eraldluz",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "RECEIVE",
       "login": "cardomeq",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "PALLETIZE",
       "login": "narcisdo",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "ymariato",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "ignacicc",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "ICQA",
       "login": "virginix",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "KARIBA",
       "login": "enbarra",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "PALLETIZE",
       "login": "ixqgalic",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "KARIBA",
       "login": "yesalfon",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "PALLETIZE",
       "login": "xlombard",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "TOM",
       "login": "nuevogra",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "alpandra",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "mdafenin",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "IB DOCK",
       "login": "ssanquir",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "oskflore",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "ICQA",
       "login": "elbmajda",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "RECEIVE",
       "login": "vidshara",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "marinbrv",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "RECEIVE",
       "login": "funesjim",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "sotsluis",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SHIP",
       "login": "sergibad",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "TOM",
       "login": "toroncri",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "belhoham",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "vjoemart",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "maesogon",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "rwiltona",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "valdedle",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "galagrai",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "bfesando",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "RECEIVE",
       "login": "vjoseign",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "silvachd",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "IB DOCK",
       "login": "rdragova",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "PALLETIZE",
       "login": "roymadon",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SHIP",
       "login": "cortlrau",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "KARIBA",
       "login": "murchcar",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "KARIBA",
       "login": "aijairoq",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SORTATION",
       "login": "jacoumon",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "marsmuno",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "RECEIVE",
       "login": "blatmari",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "msamsant",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "IB DOCK",
       "login": "anoangel",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "ICQA",
       "login": "adamspgw",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "adhechav",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "maizajon",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "RECEIVE",
       "login": "vanessvq",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "TOM",
       "login": "xcismama",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "RECEIVE",
       "login": "rafatill",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SORTATION",
       "login": "villerax",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "carlpdua",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "FLOW",
       "login": "fernfvas",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "IB DOCK",
       "login": "ngincaba",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "RECEIVE",
       "login": "dudrenat",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "IB DOCK",
       "login": "sarsaif",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SORTATION",
       "login": "zmiguoch",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "PALLETIZE",
       "login": "barbvcla",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "IB DOCK",
       "login": "sizferna",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "IB DOCK",
       "login": "cdannys",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "IB DOCK",
       "login": "fanglili",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "jpradope",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "rialdema",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SHIP",
       "login": "medonwon",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "RECEIVE",
       "login": "natakozu",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "FLOW",
       "login": "hernkang",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "RECEIVE",
       "login": "silvifgr",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "bhermos",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "nromever",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "mremirob",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "maridefe",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "materale",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "ronadoro",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "acvangel",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "TOM",
       "login": "felamoni",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "carlopeq",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "mormaoly",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "tbryanva",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "queraled",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "ICQA",
       "login": "hectorye",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "lardiema",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "lhernman",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "jvalluci",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "josdalme",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "IB DOCK",
       "login": "iarangar",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "KARIBA",
       "login": "bferjose",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SHIP",
       "login": "qurbieta",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "oskemoro",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "migmoyac",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "arantebe",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "RECEIVE",
       "login": "csantacj",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SORTATION",
       "login": "habibmis",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "hilsancd",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "eguadalb",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "RECEIVE",
       "login": "lcrisanc",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "ustarje",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "mariatbm",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "TOM",
       "login": "yonnyper",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "vallessi",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "RECEIVE",
       "login": "evdomi",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "IB DOCK",
       "login": "luzsanlh",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "tmunozgb",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "auriceca",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "PALLETIZE",
       "login": "naaaecha",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Sanchez Agustin,Sergio"
     },
     {
       "area": "SORTATION",
       "login": "fjeamigu",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "qaaronro",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "ICQA",
       "login": "gebarren",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "TOM",
       "login": "angsah",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "mgrimals",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "zsalasde",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "RECEIVE",
       "login": "gaavrylv",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "IB DOCK",
       "login": "smarcolo",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Gonzalez Gavalda,Alvaro"
     },
     {
       "area": "SORTATION",
       "login": "fcorredo",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "pcamilel",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "mvaldiva",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "RECEIVE",
       "login": "reslasap",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "ICQA",
       "login": "rcorrean",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "SORTATION",
       "login": "beatugil",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "ymiracar",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "nipaolaa",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "RECEIVE",
       "login": "savinans",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "spiandrz",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SHIP",
       "login": "cgreppib",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "KARIBA",
       "login": "tomeyiev",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "TOM",
       "login": "guayguac",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "verajfer",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "ICQA",
       "login": "silvwper",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "IB DOCK",
       "login": "garxenij",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "SORTATION",
       "login": "manosaar",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "TOM",
       "login": "bentdana",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "ivanseba",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "SORTATION",
       "login": "sangolui",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "cawmonto",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "RECEIVE",
       "login": "scarlade",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "IB DOCK",
       "login": "oukhlida",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "sentieal",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "rarreseb",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "jceballj",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "wsergios",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SORTATION",
       "login": "qemanueb",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "segomezp",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "IB DOCK",
       "login": "nehemmar",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "RECEIVE",
       "login": "nvanessl",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "potjuan",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "RECEIVE",
       "login": "bargises",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "FLOW",
       "login": "lidiamun",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SHIP",
       "login": "lojjimmy",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SORTATION",
       "login": "daysrodr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "KARIBA",
       "login": "rlainger",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SHIP",
       "login": "ncarmr",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "SHIP",
       "login": "eperehum",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "klopezmd",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "González García,Javier"
     },
     {
       "area": "TOM",
       "login": "palrlore",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "IB DOCK",
       "login": "juruizca",
-      "turno": null
+      "turno": "NS",
+      "manager": "Carrasco Albea,Paula"
     },
     {
       "area": "RECEIVE",
       "login": "cferrefr",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "FLOW",
       "login": "barirenj",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Ruiz Gazulla,Alejandra"
     },
     {
       "area": "SORTATION",
       "login": "epachael",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "RECEIVE",
       "login": "ggarcipa",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "sgomezso",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "ICQA",
       "login": "valangix",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "rimsmila",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "iurdanan",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SHIP",
       "login": "halquezr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "KARIBA",
       "login": "victegas",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SHIP",
       "login": "dyebrabl",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "RECEIVE",
       "login": "yessikga",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "IB DOCK",
       "login": "ibaneztm",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "PALLETIZE",
       "login": "zambgonz",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "IB DOCK",
       "login": "garcizin",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "zgenandr",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "caucambr",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "PALLETIZE",
       "login": "ospinagp",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SHIP",
       "login": "zmibring",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "SORTATION",
       "login": "zmdayann",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "pijsorel",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "RECEIVE",
       "login": "masamarc",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SORTATION",
       "login": "roddunia",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "IB DOCK",
       "login": "gonmabey",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "crlarcop",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "RECEIVE",
       "login": "mhernbel",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "ICQA",
       "login": "bmaralba",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "SORTATION",
       "login": "sfalrosm",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "RECEIVE",
       "login": "ovelalop",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orga Nebra,Paula"
     },
     {
       "area": "SORTATION",
       "login": "garnicav",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "oalparra",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "ICQA",
       "login": "iriigleh",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "IB DOCK",
       "login": "vegasanm",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "RECEIVE",
       "login": "rgonznai",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "RECEIVE",
       "login": "rosallib",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SHIP",
       "login": "dcuchihv",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "IB DOCK",
       "login": "higuitwj",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "KARIBA",
       "login": "javclave",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "ICQA",
       "login": "margilag",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "RECEIVE",
       "login": "evucocaj",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "sanroosb",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "wtagiova",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SHIP",
       "login": "jsaezana",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "PALLETIZE",
       "login": "vilcsand",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "PALLETIZE",
       "login": "aeariadn",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "nairpere",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "RECEIVE",
       "login": "viusierr",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "ianvicen",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "blancsaa",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "RECEIVE",
       "login": "mantecf",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "TOM",
       "login": "cercosno",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "SORTATION",
       "login": "sergipiq",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "osapatri",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SORTATION",
       "login": "tguerris",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "gbravocc",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "IB DOCK",
       "login": "skarigra",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SHIP",
       "login": "xnsabeln",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "IB DOCK",
       "login": "sergango",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "IB DOCK",
       "login": "ravanton",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "SHIP",
       "login": "igutscar",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "RECEIVE",
       "login": "promevic",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "frahcont",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SHIP",
       "login": "djadouno",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Orera Echeverría,Eduardo"
     },
     {
       "area": "RECEIVE",
       "login": "juligmez",
-      "turno": null
+      "turno": "4/8",
+      "manager": "Sanz,Victor"
     },
     {
       "area": "SORTATION",
       "login": "gabarrep",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "msumbros",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "KARIBA",
       "login": "mibritoa",
-      "turno": null
+      "turno": "2/6",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "ICQA",
       "login": "dianqcor",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Pazzelli,Carolina Vanesa"
     },
     {
       "area": "IB DOCK",
       "login": "salvamap",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Olaso Uguet De Resayre,Juan"
     },
     {
       "area": "KARIBA",
       "login": "veralfer",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "SORTATION",
       "login": "emonteju",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "mafmonts",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "eyamadoh",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "SORTATION",
       "login": "hjesoliv",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "IB DOCK",
       "login": "pinaca",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Asurmendi,Beatriz"
     },
     {
       "area": "KARIBA",
       "login": "cangmena",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Moreno Millán,Raúl"
     },
     {
       "area": "RECEIVE",
       "login": "erlipach",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "RECEIVE",
       "login": "ruizcuea",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "lcarpiof",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "IB DOCK",
       "login": "lisbertr",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Just Cots,Josep"
     },
     {
       "area": "SHIP",
       "login": "picadoos",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "juantomj",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "arcisilv",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "RECEIVE",
       "login": "hsanchel",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "RECEIVE",
       "login": "maheceyi",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SORTATION",
       "login": "johercym",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "RECEIVE",
       "login": "lanuzaya",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Casas,Elena"
     },
     {
       "area": "SORTATION",
       "login": "yolaluce",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "rqluqueg",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "SORTATION",
       "login": "yelvisso",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "caricolm",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SHIP",
       "login": "carldelo",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Ruiz Guillen,Jose Luis"
     },
     {
       "area": "ICQA",
       "login": "salvarsa",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Hurtado Pérez,Daniel"
     },
     {
       "area": "ICQA",
       "login": "sasotono",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "davizmor",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "PALLETIZE",
       "login": "marcocay",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Cortés Escartín,Isabel"
     },
     {
       "area": "SORTATION",
       "login": "ianmercy",
-      "turno": "NS"
+      "turno": "NS",
+      "manager": "Sanz Monreal,Pablo"
     },
     {
       "area": "SORTATION",
       "login": "glpereza",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "TOM",
       "login": "quitechr",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Rodriguez Diaz,Ivan"
     },
     {
       "area": "RECEIVE",
       "login": "sheagome",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "SHIP",
       "login": "rodpkath",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Oliete Trapero,Raquel"
     },
     {
       "area": "RECEIVE",
       "login": "jmeliza",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Hervás Peñín,Sofía"
     },
     {
       "area": "IB DOCK",
       "login": "javtorru",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "SORTATION",
       "login": "saencris",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Alonso Dehesa,Carlos"
     },
     {
       "area": "ICQA",
       "login": "dbernand",
-      "turno": "4/8"
+      "turno": "4/8",
+      "manager": "Álvarez Bustamante,Diego"
     },
     {
       "area": "SORTATION",
       "login": "rorosaan",
-      "turno": "3/7"
+      "turno": "3/7",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "SORTATION",
       "login": "jefperet",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "González García,Javier"
     },
     {
       "area": "SHIP",
       "login": "velizrod",
-      "turno": "1/5"
+      "turno": "1/5",
+      "manager": "Ruiz,Andrés"
     },
     {
       "area": "SORTATION",
       "login": "espalsjo",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Martín Clopés,Ignacio"
     },
     {
       "area": "IB DOCK",
       "login": "zjohfern",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Arrien Aguilo,Jorge"
     },
     {
       "area": "ICQA",
       "login": "alejgonx",
-      "turno": "2/6"
+      "turno": "2/6",
+      "manager": "Pazzelli,Carolina Vanesa"
     }
   ],
   "vacation_projection": [
