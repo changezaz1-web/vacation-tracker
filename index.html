@@ -140,54 +140,40 @@
             vertical-align: middle;
         }
 
-        /* Semana: fixed narrow */
+        /* Semana 30% */
         .vacation-table th:nth-child(1),
         .vacation-table td:nth-child(1) {
-            width: 110px;
+            width: 30%;
             text-align: center;
-            white-space: nowrap;
         }
 
-        /* Disponibilidad: fixed small circle column */
+        /* Disponibilidad 15% */
         .vacation-table th:nth-child(2),
         .vacation-table td:nth-child(2) {
-            width: 50px;
+            width: 15%;
             text-align: center;
         }
 
-        /* Estado: takes remaining space */
+        /* Estado 55% */
         .vacation-table th:nth-child(3),
         .vacation-table td:nth-child(3) {
+            width: 55%;
             text-align: left;
         }
 
-        .vacation-table tr:hover {
-            background: #f8f9fa;
-        }
+        .vacation-table tr:hover { background: #f8f9fa; }
+        .vacation-table tr:nth-child(even) { background: #f9f9f9; }
 
-        .vacation-table tr:nth-child(even) {
-            background: #f9f9f9;
+        /* Semáforo círculo */
+        .semaforo {
+            display: inline-block;
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
         }
-
-        .hours-cell {
-            font-weight: 600;
-            color: #333;
-        }
-
-        .hours-low {
-            background-color: #FFC7CE;
-            color: #9C0006;
-        }
-
-        .hours-medium {
-            background-color: #FFEB9C;
-            color: #9C5700;
-        }
-
-        .hours-high {
-            background-color: #C6EFCE;
-            color: #006100;
-        }
+        .semaforo-red    { background-color: #e74c3c; box-shadow: 0 0 6px rgba(231,76,60,0.6); }
+        .semaforo-yellow { background-color: #f39c12; box-shadow: 0 0 6px rgba(243,156,18,0.6); }
+        .semaforo-green  { background-color: #27ae60; box-shadow: 0 0 6px rgba(39,174,96,0.6); }
 
         .error-message {
             background: #f8d7da;
@@ -268,105 +254,38 @@
 
         /* ── Responsive ─────────────────────────────────────────── */
         @media (max-width: 768px) {
-            body {
-                padding: 8px;
-            }
-
-            .container {
-                border-radius: 8px;
-            }
-
-            .header {
-                padding: 15px 12px;
-            }
-
-            .header h1 {
-                font-size: 1.4em;
-            }
-
-            .header p {
-                font-size: 0.85em;
-            }
-
-            .login-section {
-                padding: 20px 12px;
-            }
-
-            .results-section {
-                padding: 12px;
-            }
-
-            .user-info {
-                padding: 12px;
-                font-size: 13px;
-            }
-
-            .btn {
-                padding: 12px 20px;
-                font-size: 14px;
-                width: 100%;
-                margin-top: 12px;
-            }
-
-            .input-group input {
-                padding: 12px;
-                font-size: 14px;
-            }
-
-            .input-group label {
-                font-size: 13px;
-            }
-
-            /* Table mobile */
-            .vacation-table {
-                width: 100%;
-                table-layout: fixed;
-            }
+            body { padding: 8px; }
+            .container { border-radius: 8px; }
+            .header { padding: 15px 12px; }
+            .header h1 { font-size: 1.4em; }
+            .header p  { font-size: 0.85em; }
+            .login-section { padding: 20px 12px; }
+            .results-section { padding: 12px; }
+            .user-info { padding: 12px; font-size: 13px; }
+            .btn { padding: 12px 20px; font-size: 14px; width: 100%; margin-top: 12px; }
+            .input-group input { padding: 12px; font-size: 14px; }
+            .input-group label { font-size: 13px; }
 
             .vacation-table th,
-            .vacation-table td {
-                font-size: 13px;
-                padding: 10px 8px;
-            }
+            .vacation-table td { font-size: 13px; padding: 10px 8px; }
 
-            /* Semana */
             .vacation-table th:nth-child(1),
-            .vacation-table td:nth-child(1) {
-                width: 40%;
-            }
+            .vacation-table td:nth-child(1) { width: 38%; }
 
-            /* Disponibilidad — visible and centered */
             .vacation-table th:nth-child(2),
-            .vacation-table td:nth-child(2) {
-                width: 20%;
-                display: table-cell;
-                text-align: center;
-            }
+            .vacation-table td:nth-child(2) { width: 14%; text-align: center; }
 
-            /* Estado */
             .vacation-table th:nth-child(3),
-            .vacation-table td:nth-child(3) {
-                width: 40%;
-                font-size: 12px;
-            }
+            .vacation-table td:nth-child(3) { width: 48%; font-size: 12px; }
 
-            .week-tooltip {
-                font-size: 11px;
-                padding: 5px 8px;
-            }
+            .semaforo { width: 18px; height: 18px; }
+            .week-tooltip { font-size: 11px; padding: 5px 8px; }
         }
 
         @media (max-width: 400px) {
             .vacation-table th,
-            .vacation-table td {
-                font-size: 11px;
-                padding: 8px 5px;
-            }
-
-            .vacation-table th:nth-child(3),
-            .vacation-table td:nth-child(3) {
-                font-size: 11px;
-            }
+            .vacation-table td { font-size: 11px; padding: 8px 5px; }
+            .semaforo { width: 16px; height: 16px; }
         }
     </style>
 </head>
@@ -498,16 +417,16 @@
                 const week  = item.Week  || 'N/A';
                 const turno = item.Turno || empTurno;
 
-                let hoursClass, status;
+                let semaforoClass, status;
                 if (hours < 8) {
-                    hoursClass = 'hours-low';
-                    status = 'No quedan horas disponibles';
+                    semaforoClass = 'semaforo-red';
+                    status = 'Sin disponibilidad';
                 } else if (hours <= 39) {
-                    hoursClass = 'hours-medium';
-                    status = 'Quedan pocas horas disponibles';
+                    semaforoClass = 'semaforo-yellow';
+                    status = 'Disponibilidad limitada';
                 } else {
-                    hoursClass = 'hours-high';
-                    status = 'Quedan muchas horas disponibles';
+                    semaforoClass = 'semaforo-green';
+                    status = 'Disponible';
                 }
 
                 const weekDates   = getWeekDateRange(week);
@@ -519,7 +438,7 @@
                             <strong>Semana ${week}</strong>
                             <div class="week-tooltip">${tooltipText}</div>
                         </td>
-                        <td class="hours-cell ${hoursClass}">&nbsp;</td>
+                        <td style="text-align:center"><span class="semaforo ${semaforoClass}"></span></td>
                         <td>${status}</td>
                     </tr>
                 `;
