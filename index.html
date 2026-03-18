@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vacation Hours Tracker</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -123,26 +122,43 @@
             border-radius: 10px;
             overflow: hidden;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            table-layout: fixed;
         }
 
         .vacation-table th {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 15px;
+            padding: 12px 10px;
             text-align: center;
             font-weight: 600;
+            white-space: nowrap;
         }
 
         .vacation-table td {
-            padding: 12px 15px;
+            padding: 10px 12px;
             border-bottom: 1px solid #eee;
+            vertical-align: middle;
         }
 
+        /* Semana: fixed narrow */
         .vacation-table th:nth-child(1),
-        .vacation-table td:nth-child(1),
+        .vacation-table td:nth-child(1) {
+            width: 110px;
+            text-align: center;
+            white-space: nowrap;
+        }
+
+        /* Disponibilidad: fixed small circle column */
         .vacation-table th:nth-child(2),
         .vacation-table td:nth-child(2) {
+            width: 50px;
             text-align: center;
+        }
+
+        /* Estado: takes remaining space */
+        .vacation-table th:nth-child(3),
+        .vacation-table td:nth-child(3) {
+            text-align: left;
         }
 
         .vacation-table tr:hover {
@@ -250,11 +266,10 @@
             -webkit-overflow-scrolling: touch;
         }
 
-        /* Responsive Design */
+        /* ── Responsive ─────────────────────────────────────────── */
         @media (max-width: 768px) {
             body {
                 padding: 8px;
-                font-size: 12px;
             }
 
             .container {
@@ -262,116 +277,95 @@
             }
 
             .header {
-                padding: 15px;
+                padding: 15px 12px;
             }
 
             .header h1 {
-                font-size: 1.5em;
+                font-size: 1.4em;
             }
 
             .header p {
-                font-size: 0.9em;
+                font-size: 0.85em;
             }
 
             .login-section {
-                padding: 15px;
+                padding: 20px 12px;
             }
 
             .results-section {
-                padding: 15px;
+                padding: 12px;
             }
 
-            .vacation-table,
+            .user-info {
+                padding: 12px;
+                font-size: 13px;
+            }
+
+            .btn {
+                padding: 12px 20px;
+                font-size: 14px;
+                width: 100%;
+                margin-top: 12px;
+            }
+
+            .input-group input {
+                padding: 12px;
+                font-size: 14px;
+            }
+
+            .input-group label {
+                font-size: 13px;
+            }
+
+            /* Table mobile */
+            .vacation-table {
+                width: 100%;
+                table-layout: fixed;
+            }
+
             .vacation-table th,
             .vacation-table td {
-                font-size: 10px;
+                font-size: 13px;
+                padding: 10px 8px;
             }
 
-            .vacation-table th,
-            .vacation-table td {
-                padding: 4px 2px;
+            /* Semana */
+            .vacation-table th:nth-child(1),
+            .vacation-table td:nth-child(1) {
+                width: 40%;
             }
 
-            .vacation-table th:nth-child(3),
-            .vacation-table td:nth-child(3) {
-                width: 20px;
-                min-width: 20px;
-            }
-
+            /* Disponibilidad — visible and centered */
             .vacation-table th:nth-child(2),
             .vacation-table td:nth-child(2) {
-                display: none;
+                width: 20%;
+                display: table-cell;
+                text-align: center;
             }
 
-            .modal-content {
-                margin: 2% auto;
-                padding: 15px;
-                width: 95%;
-            }
-
-            .upload-area {
-                padding: 15px;
-                margin: 10px 0;
-            }
-
-            .admin-btn {
-                display: none;
+            /* Estado */
+            .vacation-table th:nth-child(3),
+            .vacation-table td:nth-child(3) {
+                width: 40%;
+                font-size: 12px;
             }
 
             .week-tooltip {
                 font-size: 11px;
-                padding: 4px 6px;
-            }
-
-            .btn {
-                padding: 10px 16px;
-                font-size: 12px;
-            }
-
-            .input-group input {
-                padding: 10px;
-                font-size: 12px;
-            }
-
-            .input-group label {
-                font-size: 12px;
-            }
-
-            .user-info {
-                padding: 15px;
-                font-size: 12px;
+                padding: 5px 8px;
             }
         }
 
-        @media (max-width: 480px) {
+        @media (max-width: 400px) {
             .vacation-table th,
             .vacation-table td {
-                padding: 6px 4px;
+                font-size: 11px;
+                padding: 8px 5px;
             }
-        }
 
-        /* Table scroll for very small screens */
-        @media (max-width: 400px) {
-            .vacation-table {
-                display: block;
-                overflow-x: auto;
-                white-space: nowrap;
-            }
-        }
-
-        /* Fix rounded corners on mobile */
-        @media (max-width: 768px) {
-            .vacation-table th:first-child {
-                border-top-left-radius: 10px;
-            }
-            .vacation-table th:last-child {
-                border-top-right-radius: 10px;
-            }
-            .vacation-table tr:last-child td:first-child {
-                border-bottom-left-radius: 10px;
-            }
-            .vacation-table tr:last-child td:last-child {
-                border-bottom-right-radius: 10px;
+            .vacation-table th:nth-child(3),
+            .vacation-table td:nth-child(3) {
+                font-size: 11px;
             }
         }
     </style>
