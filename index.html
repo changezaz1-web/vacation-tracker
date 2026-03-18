@@ -1,15 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vacation Hours Tracker</title>
+    <title>Semáforo de Vacaciones</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -19,281 +15,234 @@
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 900px;
             margin: 0 auto;
             background: white;
             border-radius: 15px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
             overflow: hidden;
         }
 
+        /* ── Header ── */
         .header {
             background: linear-gradient(135deg, #232526 0%, #414345 100%);
             color: white;
-            padding: 30px;
+            padding: 28px 20px;
             text-align: center;
         }
+        .header h1 { font-size: 2em; margin-bottom: 8px; }
+        .header p  { opacity: 0.75; font-size: 1em; line-height: 1.5; }
 
-        .header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-
-        .header p {
-            opacity: 0.8;
-            font-size: 1.1em;
-        }
-
+        /* ── Login ── */
         .login-section {
-            padding: 40px;
+            padding: 36px 20px;
             text-align: center;
             background: #f8f9fa;
         }
-
-        .input-group {
-            max-width: 400px;
-            margin: 0 auto;
-        }
-
+        .input-group { max-width: 360px; margin: 0 auto; }
         .input-group label {
             display: block;
             margin-bottom: 10px;
             font-weight: 600;
             color: #333;
-            font-size: 1.1em;
+            font-size: 1em;
         }
-
         .input-group input {
             width: 100%;
-            padding: 15px;
+            padding: 13px 15px;
             border: 2px solid #e0e0e0;
             border-radius: 10px;
-            font-size: 1.1em;
-            transition: all 0.3s ease;
+            font-size: 1em;
+            transition: border-color 0.2s, box-shadow 0.2s;
         }
-
         .input-group input:focus {
             outline: none;
             border-color: #667eea;
-            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+            box-shadow: 0 0 0 3px rgba(102,126,234,0.15);
         }
-
         .btn {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
-            padding: 15px 30px;
+            padding: 13px 30px;
             border-radius: 10px;
-            font-size: 1.1em;
+            font-size: 1em;
             font-weight: 600;
             cursor: pointer;
-            margin-top: 20px;
-            transition: all 0.3s ease;
+            margin-top: 16px;
+            width: 100%;
+            transition: opacity 0.2s, transform 0.2s;
         }
+        .btn:hover { opacity: 0.9; transform: translateY(-1px); }
 
-        .btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
-        }
-
-        .results-section {
-            padding: 40px;
-            display: none;
-        }
+        /* ── Results ── */
+        .results-section { padding: 24px 20px; display: none; }
 
         .user-info {
-            background: #e8f4fd;
-            padding: 20px;
+            background: #eef4fd;
+            padding: 16px 18px;
             border-radius: 10px;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
             border-left: 5px solid #667eea;
+            font-size: 0.95em;
+            line-height: 1.7;
         }
+        .user-info h3 { color: #333; margin-bottom: 6px; font-size: 1em; }
 
-        .user-info h3 {
-            color: #333;
-            margin-bottom: 10px;
-        }
+        /* ── Table ── */
+        .table-container { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 
         .vacation-table {
             width: 100%;
             border-collapse: collapse;
-            margin-top: 20px;
-            background: white;
             border-radius: 10px;
             overflow: hidden;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
             table-layout: fixed;
         }
 
         .vacation-table th {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 12px 10px;
+            padding: 13px 10px;
             text-align: center;
             font-weight: 600;
-            white-space: nowrap;
+            font-size: 0.9em;
         }
-
         .vacation-table td {
-            padding: 10px 12px;
+            padding: 11px 10px;
             border-bottom: 1px solid #eee;
             vertical-align: middle;
+            font-size: 0.9em;
         }
 
-        /* Semana 30% */
+        /* Col 1 – Semana */
         .vacation-table th:nth-child(1),
-        .vacation-table td:nth-child(1) {
-            width: 30%;
-            text-align: center;
-        }
+        .vacation-table td:nth-child(1) { width: 32%; text-align: center; }
 
-        /* Disponibilidad 15% */
+        /* Col 2 – Semáforo */
         .vacation-table th:nth-child(2),
-        .vacation-table td:nth-child(2) {
-            width: 15%;
-            text-align: center;
-        }
+        .vacation-table td:nth-child(2) { width: 18%; text-align: center; }
 
-        /* Estado 55% */
+        /* Col 3 – Estado */
         .vacation-table th:nth-child(3),
-        .vacation-table td:nth-child(3) {
-            width: 55%;
-            text-align: left;
-        }
+        .vacation-table td:nth-child(3) { width: 50%; text-align: left; padding-left: 14px; }
 
-        .vacation-table tr:hover { background: #f8f9fa; }
-        .vacation-table tr:nth-child(even) { background: #f9f9f9; }
+        .vacation-table tr:hover { background: #f5f7ff; }
+        .vacation-table tr:nth-child(even) { background: #fafafa; }
 
-        /* Semáforo círculo */
+        /* ── Semáforo ── */
         .semaforo {
             display: inline-block;
-            width: 22px;
-            height: 22px;
+            width: 20px;
+            height: 20px;
             border-radius: 50%;
+            vertical-align: middle;
         }
-        .semaforo-red    { background-color: #e74c3c; box-shadow: 0 0 6px rgba(231,76,60,0.6); }
-        .semaforo-yellow { background-color: #f39c12; box-shadow: 0 0 6px rgba(243,156,18,0.6); }
-        .semaforo-green  { background-color: #27ae60; box-shadow: 0 0 6px rgba(39,174,96,0.6); }
+        .semaforo-red    { background: #e74c3c; box-shadow: 0 0 7px rgba(231,76,60,0.6); }
+        .semaforo-yellow { background: #f39c12; box-shadow: 0 0 7px rgba(243,156,18,0.6); }
+        .semaforo-green  { background: #27ae60; box-shadow: 0 0 7px rgba(39,174,96,0.6); }
 
-        .error-message {
-            background: #f8d7da;
-            color: #721c24;
-            padding: 15px;
-            border-radius: 10px;
-            margin-top: 20px;
-            border-left: 5px solid #dc3545;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: #666;
-        }
-
-        .spinner {
-            border: 4px solid #f3f3f3;
-            border-top: 4px solid #667eea;
-            border-radius: 50%;
-            width: 40px;
-            height: 40px;
-            animation: spin 1s linear infinite;
-            margin: 0 auto 20px;
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-        .week-cell {
-            position: relative;
-            cursor: pointer;
-        }
-
+        /* ── Tooltip ── */
+        .week-cell { position: relative; cursor: pointer; }
         .week-tooltip {
             position: fixed;
-            bottom: auto;
-            top: auto;
-            left: 50%;
-            transform: translateX(-50%) translateY(-100%);
             background: #333;
             color: white;
-            padding: 8px 12px;
+            padding: 6px 10px;
             border-radius: 6px;
-            font-size: 0.85em;
+            font-size: 0.78em;
             white-space: nowrap;
             opacity: 0;
             visibility: hidden;
-            transition: opacity 0.3s, visibility 0.3s;
-            z-index: 1001;
-            margin-bottom: 5px;
             pointer-events: none;
+            z-index: 9999;
+            transition: opacity 0.2s;
         }
-
         .week-tooltip::after {
             content: '';
             position: absolute;
-            top: 100%;
-            left: 50%;
+            top: 100%; left: 50%;
             transform: translateX(-50%);
             border: 5px solid transparent;
             border-top-color: #333;
         }
 
-        .week-cell:hover .week-tooltip,
-        .week-cell:active .week-tooltip {
-            opacity: 1;
-            visibility: visible;
+        /* ── Misc ── */
+        .error-message {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 14px;
+            border-radius: 10px;
+            border-left: 5px solid #dc3545;
+            font-size: 0.9em;
         }
-
-        .table-container {
-            overflow-x: auto;
-            overflow-y: visible;
-            -webkit-overflow-scrolling: touch;
+        .loading { text-align: center; padding: 40px; color: #666; }
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 38px; height: 38px;
+            animation: spin 0.9s linear infinite;
+            margin: 0 auto 16px;
         }
+        @keyframes spin { to { transform: rotate(360deg); } }
 
-        /* ── Responsive ─────────────────────────────────────────── */
-        @media (max-width: 768px) {
-            body { padding: 8px; }
-            .container { border-radius: 8px; }
-            .header { padding: 15px 12px; }
-            .header h1 { font-size: 1.4em; }
-            .header p  { font-size: 0.85em; }
-            .login-section { padding: 20px 12px; }
-            .results-section { padding: 12px; }
-            .user-info { padding: 12px; font-size: 13px; }
-            .btn { padding: 12px 20px; font-size: 14px; width: 100%; margin-top: 12px; }
-            .input-group input { padding: 12px; font-size: 14px; }
-            .input-group label { font-size: 13px; }
+        /* ════════════════════════════════════════
+           MÓVIL  ≤ 600px
+        ════════════════════════════════════════ */
+        @media (max-width: 600px) {
 
-            .vacation-table th,
-            .vacation-table td { font-size: 13px; padding: 10px 8px; }
+            body { padding: 0; }
 
+            .container { border-radius: 0; box-shadow: none; min-height: 100vh; }
+
+            /* Header */
+            .header { padding: 18px 14px; }
+            .header h1 { font-size: 1.25em; }
+            .header p  { font-size: 0.8em; }
+
+            /* Login */
+            .login-section { padding: 24px 14px; }
+            .input-group label { font-size: 0.95em; }
+            .input-group input { padding: 12px; font-size: 0.95em; }
+            .btn { padding: 12px; font-size: 0.95em; margin-top: 12px; }
+
+            /* Results */
+            .results-section { padding: 14px; }
+            .user-info { padding: 12px 14px; font-size: 0.88em; margin-bottom: 14px; }
+            .user-info h3 { font-size: 0.95em; }
+
+            /* Table — títulos cortos en móvil via data-label */
+            .vacation-table th { font-size: 0.78em; padding: 10px 6px; }
+            .vacation-table td { font-size: 0.82em; padding: 10px 6px; }
+
+            /* Proporciones móvil: Semana 36% | 🔴 16% | Estado 48% */
             .vacation-table th:nth-child(1),
-            .vacation-table td:nth-child(1) { width: 38%; }
+            .vacation-table td:nth-child(1) { width: 36%; }
 
             .vacation-table th:nth-child(2),
-            .vacation-table td:nth-child(2) { width: 14%; text-align: center; }
+            .vacation-table td:nth-child(2) { width: 16%; }
 
             .vacation-table th:nth-child(3),
-            .vacation-table td:nth-child(3) { width: 48%; font-size: 12px; }
+            .vacation-table td:nth-child(3) { width: 48%; padding-left: 8px; }
 
-            .semaforo { width: 18px; height: 18px; }
-            .week-tooltip { font-size: 11px; padding: 5px 8px; }
+            .semaforo { width: 17px; height: 17px; }
         }
 
-        @media (max-width: 400px) {
-            .vacation-table th,
-            .vacation-table td { font-size: 11px; padding: 8px 5px; }
-            .semaforo { width: 16px; height: 16px; }
+        @media (max-width: 360px) {
+            .vacation-table th { font-size: 0.72em; padding: 9px 4px; }
+            .vacation-table td { font-size: 0.76em; padding: 9px 4px; }
+            .semaforo { width: 15px; height: 15px; }
         }
     </style>
 </head>
 <body>
     <div class="container">
+
         <div class="header">
             <h1>Semáforo de Vacaciones</h1>
-            <p>Revisa la disponibilad de vacaciones por semana</p>
+            <p>Revisa la disponibilidad de vacaciones por semana</p>
         </div>
 
         <div class="login-section" id="loginSection">
@@ -304,59 +253,53 @@
             </div>
         </div>
 
-        <div class="results-section" id="resultsSection">
-            <div class="user-info" id="userInfo"></div>
-            <div id="vacationData"></div>
-        </div>
+        <div class="results-section" id="resultsSection"></div>
+
     </div>
-
-
 
     <script>
         const GITHUB_RAW_URL = 'https://raw.githubusercontent.com/changezaz1-web/vacation-tracker/main/datos.json';
 
-        let employeeMapping = [];
+        let employeeMapping   = [];
         let vacationProjection = [];
-        let lastUpdated = null;
+        let lastUpdated       = null;
 
         async function loadData() {
             try {
-                const response = await fetch(`${GITHUB_RAW_URL}?v=${new Date().getTime()}`);
-                if (!response.ok) throw new Error('No se pudo cargar los datos');
-                const data = await response.json();
-                employeeMapping = data.employee_mapping || [];
+                const r = await fetch(`${GITHUB_RAW_URL}?v=${Date.now()}`);
+                if (!r.ok) throw new Error();
+                const data = await r.json();
+                employeeMapping    = data.employee_mapping    || [];
                 vacationProjection = data.vacation_projection || [];
-                lastUpdated = data.last_updated;
+                lastUpdated        = data.last_updated;
                 updateLastUpdatedDisplay();
-                console.log(`Data loaded: ${employeeMapping.length} employees, ${vacationProjection.length} vacation records`);
-            } catch (error) {
-                console.error('Error loading data:', error);
-                showError('Error al cargar los datos.');
+            } catch {
+                showError('Error al cargar los datos. Recarga la página.');
             }
         }
 
         function updateLastUpdatedDisplay() {
-            if (lastUpdated) {
-                const date = new Date(lastUpdated);
-                const formattedDate = date.toLocaleDateString() + ' ' + date.toLocaleTimeString();
-                document.querySelector('.header p').innerHTML =
-                    `Revisa la disponibilidad de vacaciones por semana<br><small style="opacity: 0.6;">Última actualización: ${formattedDate}</small>`;
-            }
+            if (!lastUpdated) return;
+            const d = new Date(lastUpdated);
+            const txt = d.toLocaleDateString() + ' ' + d.toLocaleTimeString();
+            document.querySelector('.header p').innerHTML =
+                `Revisa la disponibilidad de vacaciones por semana<br>
+                 <small style="opacity:0.55;font-size:0.85em">Última actualización: ${txt}</small>`;
         }
 
         function searchEmployee() {
             const login = document.getElementById('loginInput').value.trim();
             if (!login) { showError('Por favor ingresa un login'); return; }
-            if (employeeMapping.length === 0) { showError('Datos no cargados. Recarga la página.'); return; }
+            if (!employeeMapping.length) { showError('Datos no cargados. Recarga la página.'); return; }
 
             showLoading();
             setTimeout(() => {
-                const employee = employeeMapping.find(emp =>
-                    emp.login && emp.login.toLowerCase() === login.toLowerCase()
+                const emp = employeeMapping.find(e =>
+                    e.login && e.login.toLowerCase() === login.toLowerCase()
                 );
-                if (!employee) { showError('Login no encontrado'); return; }
-                displayResults(employee);
-            }, 300);
+                if (!emp) { showError('Login no encontrado'); return; }
+                displayResults(emp);
+            }, 250);
         }
 
         function showLoading() {
@@ -365,134 +308,128 @@
             s.innerHTML = `<div class="loading"><div class="spinner"></div><p>Buscando...</p></div>`;
         }
 
-        function showError(message) {
+        function showError(msg) {
             const s = document.getElementById('resultsSection');
             s.style.display = 'block';
-            s.innerHTML = `<div class="error-message"><strong>Error:</strong> ${message}</div>`;
+            s.innerHTML = `<div class="error-message"><strong>Error:</strong> ${msg}</div>`;
         }
 
         function displayResults(employee) {
             const empArea  = (employee.area  || '').toUpperCase();
             const empTurno = (employee.turno || '').toUpperCase();
 
-            const userInfo = `
-                <h3>Información de Empleado</h3>
-                <p><strong>Login:</strong> ${employee.login}</p>
-                <p><strong>Área:</strong> ${empArea}</p>
-            `;
-
             // Semana actual
-            const wk1Start = new Date(2025, 11, 28);
-            const today = new Date();
-            const currentWeek = Math.floor((today - wk1Start) / (7 * 24 * 60 * 60 * 1000)) + 1;
+            const wk1Start    = new Date(2025, 11, 28);
+            const currentWeek = Math.floor((new Date() - wk1Start) / (7 * 864e5)) + 1;
 
-            // Filtrar por área Y turno, excluyendo semanas pasadas
-            const rowData = vacationProjection
-                .filter(item =>
-                    (item.Area  || '').toUpperCase() === empArea &&
-                    (item.Turno || '').toUpperCase() === empTurno &&
-                    (item.Week  || 0) >= currentWeek
+            const rows = vacationProjection
+                .filter(i =>
+                    (i.Area  || '').toUpperCase() === empArea  &&
+                    (i.Turno || '').toUpperCase() === empTurno &&
+                    (i.Week  || 0) >= currentWeek
                 )
                 .sort((a, b) => (a.Week || 0) - (b.Week || 0));
 
-            if (rowData.length === 0) {
-                showError(`No hay datos para el área ${empArea} y turno ${empTurno || 'desconocido'}`);
+            if (!rows.length) {
+                showError(`No hay datos para el área ${empArea}`);
                 return;
             }
+
+            // Detectar móvil para títulos cortos
+            const isMobile = window.innerWidth <= 600;
+            const thSemana = isMobile ? 'Semana'  : 'Semana';
+            const thDisp   = isMobile ? '🔴'      : 'Disponibilidad';
+            const thEstado = isMobile ? 'Estado'  : 'Estado';
 
             let tableHTML = `
                 <table class="vacation-table">
                     <thead>
                         <tr>
-                            <th>Semana</th>
-                            <th>Disponibilidad</th>
-                            <th>Estado</th>
+                            <th>${thSemana}</th>
+                            <th>${thDisp}</th>
+                            <th>${thEstado}</th>
                         </tr>
                     </thead>
-                    <tbody>
-            `;
+                    <tbody>`;
 
-            rowData.forEach(item => {
+            rows.forEach(item => {
                 const hours = item.Available_Hours || 0;
-                const week  = item.Week  || 'N/A';
-                const turno = item.Turno || empTurno;
+                const week  = item.Week || 'N/A';
 
-                let semaforoClass, status;
-                if (hours < 8) {
-                    semaforoClass = 'semaforo-red';
-                    status = 'Sin disponibilidad';
-                } else if (hours <= 39) {
-                    semaforoClass = 'semaforo-yellow';
-                    status = 'Disponibilidad limitada';
-                } else {
-                    semaforoClass = 'semaforo-green';
-                    status = 'Disponible';
-                }
+                let cls, estado;
+                if (hours < 8)       { cls = 'semaforo-red';    estado = isMobile ? 'Sin horas'   : 'Sin disponibilidad'; }
+                else if (hours <= 39) { cls = 'semaforo-yellow'; estado = isMobile ? 'Limitada'    : 'Disponibilidad limitada'; }
+                else                  { cls = 'semaforo-green';  estado = isMobile ? 'Disponible'  : 'Disponible'; }
 
-                const weekDates   = getWeekDateRange(week);
-                const tooltipText = weekDates;
+                const dates = getWeekDateRange(week);
 
                 tableHTML += `
                     <tr>
-                        <td class="week-cell" onmouseenter="showTooltip(event, '${tooltipText}')" onmouseleave="hideTooltip()">
-                            <strong>Semana ${week}</strong>
-                            <div class="week-tooltip">${tooltipText}</div>
+                        <td class="week-cell"
+                            ontouchstart="showTooltip(event,'${dates}')"
+                            onmouseenter="showTooltip(event,'${dates}')"
+                            onmouseleave="hideTooltip()"
+                            ontouchend="hideTooltip()">
+                            <strong>Sem. ${week}</strong>
+                            <div class="week-tooltip" id="tt-${week}"></div>
                         </td>
-                        <td style="text-align:center"><span class="semaforo ${semaforoClass}"></span></td>
-                        <td>${status}</td>
-                    </tr>
-                `;
+                        <td style="text-align:center"><span class="semaforo ${cls}"></span></td>
+                        <td>${estado}</td>
+                    </tr>`;
             });
 
             tableHTML += `</tbody></table>`;
 
             document.getElementById('resultsSection').innerHTML = `
-                <div class="user-info">${userInfo}</div>
-                <div class="table-container">${tableHTML}</div>
-            `;
+                <div class="user-info">
+                    <h3>Información del Empleado</h3>
+                    <p><strong>Login:</strong> ${employee.login}</p>
+                    <p><strong>Área:</strong> ${empArea}</p>
+                </div>
+                <div class="table-container">${tableHTML}</div>`;
+
             document.getElementById('resultsSection').style.display = 'block';
         }
 
-        document.addEventListener('DOMContentLoaded', function() {
-            loadData();
-            document.getElementById('loginInput').addEventListener('keypress', function(e) {
-                if (e.key === 'Enter') searchEmployee();
-            });
-        });
-
         function getWeekDateRange(weekNumber) {
             const wk1Start = new Date(2025, 11, 28);
-            const weekStart = new Date(wk1Start);
-            weekStart.setDate(wk1Start.getDate() + (weekNumber - 1) * 7);
-            const weekEnd = new Date(weekStart);
-            weekEnd.setDate(weekStart.getDate() + 6);
-            const months = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
-            return `${weekStart.getDate()} ${months[weekStart.getMonth()]} - ${weekEnd.getDate()} ${months[weekEnd.getMonth()]}`;
+            const start = new Date(wk1Start);
+            start.setDate(wk1Start.getDate() + (weekNumber - 1) * 7);
+            const end = new Date(start);
+            end.setDate(start.getDate() + 6);
+            const m = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+            return `${start.getDate()} ${m[start.getMonth()]} – ${end.getDate()} ${m[end.getMonth()]}`;
         }
 
         function showTooltip(event, text) {
-            const tooltip = event.target.querySelector('.week-tooltip');
-            if (tooltip) {
-                const rect = event.target.getBoundingClientRect();
-                let left = rect.left + rect.width / 2;
-                if (left - 60 < 10) left = 70;
-                if (left + 60 > window.innerWidth - 10) left = window.innerWidth - 70;
-                tooltip.style.position   = 'fixed';
-                tooltip.style.left       = left + 'px';
-                tooltip.style.top        = rect.top - 10 + 'px';
-                tooltip.style.transform  = 'translateX(-50%) translateY(-100%)';
-                tooltip.style.opacity    = '1';
-                tooltip.style.visibility = 'visible';
-                tooltip.style.zIndex     = '9999';
-            }
+            // Buscar el tooltip dentro de la celda
+            const cell = event.currentTarget;
+            const tooltip = cell.querySelector('.week-tooltip');
+            if (!tooltip) return;
+            tooltip.textContent = text;
+            const rect = cell.getBoundingClientRect();
+            let left = rect.left + rect.width / 2;
+            left = Math.max(60, Math.min(left, window.innerWidth - 60));
+            tooltip.style.left       = left + 'px';
+            tooltip.style.top        = (rect.top + window.scrollY - 38) + 'px';
+            tooltip.style.transform  = 'translateX(-50%)';
+            tooltip.style.opacity    = '1';
+            tooltip.style.visibility = 'visible';
         }
 
         function hideTooltip() {
             document.querySelectorAll('.week-tooltip').forEach(t => {
-                t.style.opacity = '0';
+                t.style.opacity    = '0';
                 t.style.visibility = 'hidden';
             });
         }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadData();
+            document.getElementById('loginInput').addEventListener('keypress', e => {
+                if (e.key === 'Enter') searchEmployee();
+            });
+        });
     </script>
 </body>
 </html>
