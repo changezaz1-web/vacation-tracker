@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+
+# Datos sensibles / temporales (NO subir)
+web_data.json
+update_web.csv
+*.xlsx
+*.xlsm
+*.csv
+
+# Logs
+*.log
+logs/
+
+# Build
+*.spec
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+
+# datos.json SÍ se sube (gestionado por generate_csv.py via API)
+!datos.json
