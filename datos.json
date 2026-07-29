@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T10:27:20.302876",
+  "last_updated": "2026-07-29T11:14:45.771885",
   "employee_mapping": [
     {
       "area": "RECEIVE",
@@ -9475,13 +9475,13 @@
       "Area": "FLOW",
       "Turno": "1/5",
       "Week": 31,
-      "Available_Hours": 16
+      "Available_Hours": 13
     },
     {
       "Area": "FLOW",
       "Turno": "1/5",
       "Week": 32,
-      "Available_Hours": 26
+      "Available_Hours": 21
     },
     {
       "Area": "FLOW",
@@ -9793,13 +9793,13 @@
       "Area": "FLOW",
       "Turno": "2/6",
       "Week": 31,
-      "Available_Hours": 28
+      "Available_Hours": 23
     },
     {
       "Area": "FLOW",
       "Turno": "2/6",
       "Week": 32,
-      "Available_Hours": 38
+      "Available_Hours": 31
     },
     {
       "Area": "FLOW",
@@ -10111,13 +10111,13 @@
       "Area": "FLOW",
       "Turno": "3/7",
       "Week": 31,
-      "Available_Hours": 12
+      "Available_Hours": 10
     },
     {
       "Area": "FLOW",
       "Turno": "3/7",
       "Week": 32,
-      "Available_Hours": 5
+      "Available_Hours": 2
     },
     {
       "Area": "FLOW",
@@ -10429,13 +10429,13 @@
       "Area": "FLOW",
       "Turno": "4/8",
       "Week": 31,
-      "Available_Hours": 0
+      "Available_Hours": -3
     },
     {
       "Area": "FLOW",
       "Turno": "4/8",
       "Week": 32,
-      "Available_Hours": -22
+      "Available_Hours": -27
     },
     {
       "Area": "FLOW",
@@ -10747,13 +10747,13 @@
       "Area": "FLOW",
       "Turno": "NS",
       "Week": 31,
-      "Available_Hours": 56
+      "Available_Hours": 46
     },
     {
       "Area": "FLOW",
       "Turno": "NS",
       "Week": 32,
-      "Available_Hours": 61
+      "Available_Hours": 46
     },
     {
       "Area": "FLOW",
@@ -11065,13 +11065,13 @@
       "Area": "IB DOCK",
       "Turno": "1/5",
       "Week": 31,
-      "Available_Hours": 44
+      "Available_Hours": 6
     },
     {
       "Area": "IB DOCK",
       "Turno": "1/5",
       "Week": 32,
-      "Available_Hours": 59
+      "Available_Hours": 6
     },
     {
       "Area": "IB DOCK",
@@ -11095,13 +11095,13 @@
       "Area": "IB DOCK",
       "Turno": "1/5",
       "Week": 36,
-      "Available_Hours": 100
+      "Available_Hours": 68
     },
     {
       "Area": "IB DOCK",
       "Turno": "1/5",
       "Week": 37,
-      "Available_Hours": 148
+      "Available_Hours": 140
     },
     {
       "Area": "IB DOCK",
@@ -11383,13 +11383,13 @@
       "Area": "IB DOCK",
       "Turno": "2/6",
       "Week": 31,
-      "Available_Hours": -82
+      "Available_Hours": -137
     },
     {
       "Area": "IB DOCK",
       "Turno": "2/6",
       "Week": 32,
-      "Available_Hours": 2
+      "Available_Hours": -49
     },
     {
       "Area": "IB DOCK",
@@ -11401,13 +11401,13 @@
       "Area": "IB DOCK",
       "Turno": "2/6",
       "Week": 34,
-      "Available_Hours": 152
+      "Available_Hours": 136
     },
     {
       "Area": "IB DOCK",
       "Turno": "2/6",
       "Week": 35,
-      "Available_Hours": 56
+      "Available_Hours": 48
     },
     {
       "Area": "IB DOCK",
@@ -11701,13 +11701,13 @@
       "Area": "IB DOCK",
       "Turno": "3/7",
       "Week": 31,
-      "Available_Hours": -30
+      "Available_Hours": -72
     },
     {
       "Area": "IB DOCK",
       "Turno": "3/7",
       "Week": 32,
-      "Available_Hours": 3
+      "Available_Hours": -48
     },
     {
       "Area": "IB DOCK",
@@ -11755,7 +11755,7 @@
       "Area": "IB DOCK",
       "Turno": "3/7",
       "Week": 40,
-      "Available_Hours": 68
+      "Available_Hours": 52
     },
     {
       "Area": "IB DOCK",
@@ -12019,13 +12019,13 @@
       "Area": "IB DOCK",
       "Turno": "4/8",
       "Week": 31,
-      "Available_Hours": -20
+      "Available_Hours": -54
     },
     {
       "Area": "IB DOCK",
       "Turno": "4/8",
       "Week": 32,
-      "Available_Hours": 13
+      "Available_Hours": -38
     },
     {
       "Area": "IB DOCK",
@@ -12049,7 +12049,7 @@
       "Area": "IB DOCK",
       "Turno": "4/8",
       "Week": 36,
-      "Available_Hours": 140
+      "Available_Hours": 132
     },
     {
       "Area": "IB DOCK",
@@ -12337,37 +12337,37 @@
       "Area": "IB DOCK",
       "Turno": "NS",
       "Week": 31,
-      "Available_Hours": 18
+      "Available_Hours": -42
     },
     {
       "Area": "IB DOCK",
       "Turno": "NS",
       "Week": 32,
-      "Available_Hours": -32
+      "Available_Hours": -146
     },
     {
       "Area": "IB DOCK",
       "Turno": "NS",
       "Week": 33,
-      "Available_Hours": 32
+      "Available_Hours": 0
     },
     {
       "Area": "IB DOCK",
       "Turno": "NS",
       "Week": 34,
-      "Available_Hours": 320
+      "Available_Hours": 288
     },
     {
       "Area": "IB DOCK",
       "Turno": "NS",
       "Week": 35,
-      "Available_Hours": 280
+      "Available_Hours": 248
     },
     {
       "Area": "IB DOCK",
       "Turno": "NS",
       "Week": 36,
-      "Available_Hours": 170
+      "Available_Hours": 162
     },
     {
       "Area": "IB DOCK",
@@ -12379,7 +12379,7 @@
       "Area": "IB DOCK",
       "Turno": "NS",
       "Week": 38,
-      "Available_Hours": 324
+      "Available_Hours": 316
     },
     {
       "Area": "IB DOCK",
@@ -12391,7 +12391,7 @@
       "Area": "IB DOCK",
       "Turno": "NS",
       "Week": 40,
-      "Available_Hours": 204
+      "Available_Hours": 212
     },
     {
       "Area": "IB DOCK",
@@ -12403,7 +12403,7 @@
       "Area": "IB DOCK",
       "Turno": "NS",
       "Week": 42,
-      "Available_Hours": 88
+      "Available_Hours": 72
     },
     {
       "Area": "IB DOCK",
@@ -12655,13 +12655,13 @@
       "Area": "ICQA",
       "Turno": "1/5",
       "Week": 31,
-      "Available_Hours": -58
+      "Available_Hours": -72
     },
     {
       "Area": "ICQA",
       "Turno": "1/5",
       "Week": 32,
-      "Available_Hours": 5
+      "Available_Hours": -16
     },
     {
       "Area": "ICQA",
@@ -12973,13 +12973,13 @@
       "Area": "ICQA",
       "Turno": "2/6",
       "Week": 31,
-      "Available_Hours": -30
+      "Available_Hours": -45
     },
     {
       "Area": "ICQA",
       "Turno": "2/6",
       "Week": 32,
-      "Available_Hours": -78
+      "Available_Hours": -101
     },
     {
       "Area": "ICQA",
@@ -13291,13 +13291,13 @@
       "Area": "ICQA",
       "Turno": "3/7",
       "Week": 31,
-      "Available_Hours": -40
+      "Available_Hours": -53
     },
     {
       "Area": "ICQA",
       "Turno": "3/7",
       "Week": 32,
-      "Available_Hours": -10
+      "Available_Hours": -37
     },
     {
       "Area": "ICQA",
@@ -13333,7 +13333,7 @@
       "Area": "ICQA",
       "Turno": "3/7",
       "Week": 38,
-      "Available_Hours": 34
+      "Available_Hours": 18
     },
     {
       "Area": "ICQA",
@@ -13609,19 +13609,19 @@
       "Area": "ICQA",
       "Turno": "4/8",
       "Week": 31,
-      "Available_Hours": -152
+      "Available_Hours": -165
     },
     {
       "Area": "ICQA",
       "Turno": "4/8",
       "Week": 32,
-      "Available_Hours": -50
+      "Available_Hours": -69
     },
     {
       "Area": "ICQA",
       "Turno": "4/8",
       "Week": 33,
-      "Available_Hours": -18
+      "Available_Hours": -10
     },
     {
       "Area": "ICQA",
@@ -13651,7 +13651,7 @@
       "Area": "ICQA",
       "Turno": "4/8",
       "Week": 38,
-      "Available_Hours": 34
+      "Available_Hours": 18
     },
     {
       "Area": "ICQA",
@@ -13927,13 +13927,13 @@
       "Area": "ICQA",
       "Turno": "NS",
       "Week": 31,
-      "Available_Hours": 48
+      "Available_Hours": 18
     },
     {
       "Area": "ICQA",
       "Turno": "NS",
       "Week": 32,
-      "Available_Hours": 43
+      "Available_Hours": 10
     },
     {
       "Area": "ICQA",
@@ -14245,13 +14245,13 @@
       "Area": "KARIBA",
       "Turno": "1/5",
       "Week": 31,
-      "Available_Hours": -44
+      "Available_Hours": -49
     },
     {
       "Area": "KARIBA",
       "Turno": "1/5",
       "Week": 32,
-      "Available_Hours": 38
+      "Available_Hours": 31
     },
     {
       "Area": "KARIBA",
@@ -14563,13 +14563,13 @@
       "Area": "KARIBA",
       "Turno": "2/6",
       "Week": 31,
-      "Available_Hours": -44
+      "Available_Hours": -49
     },
     {
       "Area": "KARIBA",
       "Turno": "2/6",
       "Week": 32,
-      "Available_Hours": -74
+      "Available_Hours": -81
     },
     {
       "Area": "KARIBA",
@@ -14881,13 +14881,13 @@
       "Area": "KARIBA",
       "Turno": "3/7",
       "Week": 31,
-      "Available_Hours": -24
+      "Available_Hours": -30
     },
     {
       "Area": "KARIBA",
       "Turno": "3/7",
       "Week": 32,
-      "Available_Hours": -69
+      "Available_Hours": -78
     },
     {
       "Area": "KARIBA",
@@ -15199,13 +15199,13 @@
       "Area": "KARIBA",
       "Turno": "4/8",
       "Week": 31,
-      "Available_Hours": -4
+      "Available_Hours": -17
     },
     {
       "Area": "KARIBA",
       "Turno": "4/8",
       "Week": 32,
-      "Available_Hours": 38
+      "Available_Hours": 31
     },
     {
       "Area": "KARIBA",
@@ -15517,13 +15517,13 @@
       "Area": "KARIBA",
       "Turno": "NS",
       "Week": 31,
-      "Available_Hours": -10
+      "Available_Hours": -9
     },
     {
       "Area": "KARIBA",
       "Turno": "NS",
       "Week": 32,
-      "Available_Hours": 2
+      "Available_Hours": -1
     },
     {
       "Area": "KARIBA",
@@ -15835,25 +15835,25 @@
       "Area": "PALLETIZE",
       "Turno": "1/5",
       "Week": 31,
-      "Available_Hours": 52
+      "Available_Hours": 38
     },
     {
       "Area": "PALLETIZE",
       "Turno": "1/5",
       "Week": 32,
-      "Available_Hours": 83
+      "Available_Hours": 62
     },
     {
       "Area": "PALLETIZE",
       "Turno": "1/5",
       "Week": 33,
-      "Available_Hours": -45
+      "Available_Hours": -5
     },
     {
       "Area": "PALLETIZE",
       "Turno": "1/5",
       "Week": 34,
-      "Available_Hours": 24
+      "Available_Hours": 64
     },
     {
       "Area": "PALLETIZE",
@@ -15889,7 +15889,7 @@
       "Area": "PALLETIZE",
       "Turno": "1/5",
       "Week": 40,
-      "Available_Hours": 16
+      "Available_Hours": 24
     },
     {
       "Area": "PALLETIZE",
@@ -16153,19 +16153,19 @@
       "Area": "PALLETIZE",
       "Turno": "2/6",
       "Week": 31,
-      "Available_Hours": -48
+      "Available_Hours": -64
     },
     {
       "Area": "PALLETIZE",
       "Turno": "2/6",
       "Week": 32,
-      "Available_Hours": -48
+      "Available_Hours": -80
     },
     {
       "Area": "PALLETIZE",
       "Turno": "2/6",
       "Week": 33,
-      "Available_Hours": 8
+      "Available_Hours": 0
     },
     {
       "Area": "PALLETIZE",
@@ -16201,7 +16201,7 @@
       "Area": "PALLETIZE",
       "Turno": "2/6",
       "Week": 39,
-      "Available_Hours": 64
+      "Available_Hours": 48
     },
     {
       "Area": "PALLETIZE",
@@ -16471,13 +16471,13 @@
       "Area": "PALLETIZE",
       "Turno": "3/7",
       "Week": 31,
-      "Available_Hours": 32
+      "Available_Hours": 8
     },
     {
       "Area": "PALLETIZE",
       "Turno": "3/7",
       "Week": 32,
-      "Available_Hours": 40
+      "Available_Hours": 0
     },
     {
       "Area": "PALLETIZE",
@@ -16597,7 +16597,7 @@
       "Area": "PALLETIZE",
       "Turno": "3/7",
       "Week": 52,
-      "Available_Hours": 0
+      "Available_Hours": -24
     },
     {
       "Area": "PALLETIZE",
@@ -16789,13 +16789,13 @@
       "Area": "PALLETIZE",
       "Turno": "4/8",
       "Week": 31,
-      "Available_Hours": -8
+      "Available_Hours": -32
     },
     {
       "Area": "PALLETIZE",
       "Turno": "4/8",
       "Week": 32,
-      "Available_Hours": -32
+      "Available_Hours": -56
     },
     {
       "Area": "PALLETIZE",
@@ -16837,13 +16837,13 @@
       "Area": "PALLETIZE",
       "Turno": "4/8",
       "Week": 39,
-      "Available_Hours": 32
+      "Available_Hours": 24
     },
     {
       "Area": "PALLETIZE",
       "Turno": "4/8",
       "Week": 40,
-      "Available_Hours": 72
+      "Available_Hours": 80
     },
     {
       "Area": "PALLETIZE",
@@ -16885,7 +16885,7 @@
       "Area": "PALLETIZE",
       "Turno": "4/8",
       "Week": 47,
-      "Available_Hours": 24
+      "Available_Hours": 16
     },
     {
       "Area": "PALLETIZE",
@@ -17107,13 +17107,13 @@
       "Area": "PALLETIZE",
       "Turno": "NS",
       "Week": 31,
-      "Available_Hours": -56
+      "Available_Hours": -74
     },
     {
       "Area": "PALLETIZE",
       "Turno": "NS",
       "Week": 32,
-      "Available_Hours": -123
+      "Available_Hours": -130
     },
     {
       "Area": "PALLETIZE",
@@ -17425,13 +17425,13 @@
       "Area": "RECEIVE",
       "Turno": "1/5",
       "Week": 31,
-      "Available_Hours": 64
+      "Available_Hours": 40
     },
     {
       "Area": "RECEIVE",
       "Turno": "1/5",
       "Week": 32,
-      "Available_Hours": 64
+      "Available_Hours": 16
     },
     {
       "Area": "RECEIVE",
@@ -17449,7 +17449,7 @@
       "Area": "RECEIVE",
       "Turno": "1/5",
       "Week": 35,
-      "Available_Hours": 184
+      "Available_Hours": 192
     },
     {
       "Area": "RECEIVE",
@@ -17743,13 +17743,13 @@
       "Area": "RECEIVE",
       "Turno": "2/6",
       "Week": 31,
-      "Available_Hours": 80
+      "Available_Hours": 34
     },
     {
       "Area": "RECEIVE",
       "Turno": "2/6",
       "Week": 32,
-      "Available_Hours": 99
+      "Available_Hours": 42
     },
     {
       "Area": "RECEIVE",
@@ -17773,7 +17773,7 @@
       "Area": "RECEIVE",
       "Turno": "2/6",
       "Week": 36,
-      "Available_Hours": 200
+      "Available_Hours": 192
     },
     {
       "Area": "RECEIVE",
@@ -17809,7 +17809,7 @@
       "Area": "RECEIVE",
       "Turno": "2/6",
       "Week": 42,
-      "Available_Hours": 106
+      "Available_Hours": 98
     },
     {
       "Area": "RECEIVE",
@@ -18061,13 +18061,13 @@
       "Area": "RECEIVE",
       "Turno": "3/7",
       "Week": 31,
-      "Available_Hours": 206
+      "Available_Hours": 173
     },
     {
       "Area": "RECEIVE",
       "Turno": "3/7",
       "Week": 32,
-      "Available_Hours": 174
+      "Available_Hours": 125
     },
     {
       "Area": "RECEIVE",
@@ -18379,19 +18379,19 @@
       "Area": "RECEIVE",
       "Turno": "4/8",
       "Week": 31,
-      "Available_Hours": 14
+      "Available_Hours": -19
     },
     {
       "Area": "RECEIVE",
       "Turno": "4/8",
       "Week": 32,
-      "Available_Hours": -26
+      "Available_Hours": -83
     },
     {
       "Area": "RECEIVE",
       "Turno": "4/8",
       "Week": 33,
-      "Available_Hours": -10
+      "Available_Hours": -2
     },
     {
       "Area": "RECEIVE",
@@ -18697,25 +18697,25 @@
       "Area": "RECEIVE",
       "Turno": "NS",
       "Week": 31,
-      "Available_Hours": 0
+      "Available_Hours": -99
     },
     {
       "Area": "RECEIVE",
       "Turno": "NS",
       "Week": 32,
-      "Available_Hours": 50
+      "Available_Hours": -35
     },
     {
       "Area": "RECEIVE",
       "Turno": "NS",
       "Week": 33,
-      "Available_Hours": 226
+      "Available_Hours": 186
     },
     {
       "Area": "RECEIVE",
       "Turno": "NS",
       "Week": 34,
-      "Available_Hours": 304
+      "Available_Hours": 312
     },
     {
       "Area": "RECEIVE",
@@ -18727,13 +18727,13 @@
       "Area": "RECEIVE",
       "Turno": "NS",
       "Week": 36,
-      "Available_Hours": 184
+      "Available_Hours": 176
     },
     {
       "Area": "RECEIVE",
       "Turno": "NS",
       "Week": 37,
-      "Available_Hours": 248
+      "Available_Hours": 256
     },
     {
       "Area": "RECEIVE",
@@ -19015,19 +19015,19 @@
       "Area": "SHIP",
       "Turno": "1/5",
       "Week": 31,
-      "Available_Hours": 68
+      "Available_Hours": 38
     },
     {
       "Area": "SHIP",
       "Turno": "1/5",
       "Week": 32,
-      "Available_Hours": 27
+      "Available_Hours": -10
     },
     {
       "Area": "SHIP",
       "Turno": "1/5",
       "Week": 33,
-      "Available_Hours": -69
+      "Available_Hours": -85
     },
     {
       "Area": "SHIP",
@@ -19075,13 +19075,13 @@
       "Area": "SHIP",
       "Turno": "1/5",
       "Week": 41,
-      "Available_Hours": 144
+      "Available_Hours": 128
     },
     {
       "Area": "SHIP",
       "Turno": "1/5",
       "Week": 42,
-      "Available_Hours": 82
+      "Available_Hours": 66
     },
     {
       "Area": "SHIP",
@@ -19333,13 +19333,13 @@
       "Area": "SHIP",
       "Turno": "2/6",
       "Week": 31,
-      "Available_Hours": -46
+      "Available_Hours": -106
     },
     {
       "Area": "SHIP",
       "Turno": "2/6",
       "Week": 32,
-      "Available_Hours": 56
+      "Available_Hours": -2
     },
     {
       "Area": "SHIP",
@@ -19651,13 +19651,13 @@
       "Area": "SHIP",
       "Turno": "3/7",
       "Week": 31,
-      "Available_Hours": -80
+      "Available_Hours": -117
     },
     {
       "Area": "SHIP",
       "Turno": "3/7",
       "Week": 32,
-      "Available_Hours": 22
+      "Available_Hours": -21
     },
     {
       "Area": "SHIP",
@@ -19669,7 +19669,7 @@
       "Area": "SHIP",
       "Turno": "3/7",
       "Week": 34,
-      "Available_Hours": 160
+      "Available_Hours": 184
     },
     {
       "Area": "SHIP",
@@ -19729,7 +19729,7 @@
       "Area": "SHIP",
       "Turno": "3/7",
       "Week": 44,
-      "Available_Hours": 24
+      "Available_Hours": 16
     },
     {
       "Area": "SHIP",
@@ -19753,7 +19753,7 @@
       "Area": "SHIP",
       "Turno": "3/7",
       "Week": 48,
-      "Available_Hours": 64
+      "Available_Hours": 56
     },
     {
       "Area": "SHIP",
@@ -19777,7 +19777,7 @@
       "Area": "SHIP",
       "Turno": "3/7",
       "Week": 52,
-      "Available_Hours": 11
+      "Available_Hours": 3
     },
     {
       "Area": "SHIP",
@@ -19969,13 +19969,13 @@
       "Area": "SHIP",
       "Turno": "4/8",
       "Week": 31,
-      "Available_Hours": -56
+      "Available_Hours": -85
     },
     {
       "Area": "SHIP",
       "Turno": "4/8",
       "Week": 32,
-      "Available_Hours": -2
+      "Available_Hours": -45
     },
     {
       "Area": "SHIP",
@@ -19987,7 +19987,7 @@
       "Area": "SHIP",
       "Turno": "4/8",
       "Week": 34,
-      "Available_Hours": 16
+      "Available_Hours": 56
     },
     {
       "Area": "SHIP",
@@ -20287,19 +20287,19 @@
       "Area": "SHIP",
       "Turno": "NS",
       "Week": 31,
-      "Available_Hours": 74
+      "Available_Hours": 3
     },
     {
       "Area": "SHIP",
       "Turno": "NS",
       "Week": 32,
-      "Available_Hours": 282
+      "Available_Hours": 139
     },
     {
       "Area": "SHIP",
       "Turno": "NS",
       "Week": 33,
-      "Available_Hours": 266
+      "Available_Hours": 306
     },
     {
       "Area": "SHIP",
@@ -20311,13 +20311,13 @@
       "Area": "SHIP",
       "Turno": "NS",
       "Week": 35,
-      "Available_Hours": 312
+      "Available_Hours": 288
     },
     {
       "Area": "SHIP",
       "Turno": "NS",
       "Week": 36,
-      "Available_Hours": 162
+      "Available_Hours": 170
     },
     {
       "Area": "SHIP",
@@ -20605,19 +20605,19 @@
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 31,
-      "Available_Hours": -58
+      "Available_Hours": -124
     },
     {
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 32,
-      "Available_Hours": 67
+      "Available_Hours": 4
     },
     {
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 33,
-      "Available_Hours": 35
+      "Available_Hours": 43
     },
     {
       "Area": "SORTATION",
@@ -20629,25 +20629,25 @@
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 35,
-      "Available_Hours": -40
+      "Available_Hours": -16
     },
     {
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 36,
-      "Available_Hours": 46
+      "Available_Hours": 62
     },
     {
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 37,
-      "Available_Hours": 214
+      "Available_Hours": 206
     },
     {
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 38,
-      "Available_Hours": 193
+      "Available_Hours": 185
     },
     {
       "Area": "SORTATION",
@@ -20683,7 +20683,7 @@
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 44,
-      "Available_Hours": -6
+      "Available_Hours": -22
     },
     {
       "Area": "SORTATION",
@@ -20707,7 +20707,7 @@
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 48,
-      "Available_Hours": 42
+      "Available_Hours": 26
     },
     {
       "Area": "SORTATION",
@@ -20719,13 +20719,13 @@
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 50,
-      "Available_Hours": 16
+      "Available_Hours": -8
     },
     {
       "Area": "SORTATION",
       "Turno": "1/5",
       "Week": 51,
-      "Available_Hours": 58
+      "Available_Hours": 50
     },
     {
       "Area": "SORTATION",
@@ -20923,19 +20923,19 @@
       "Area": "SORTATION",
       "Turno": "2/6",
       "Week": 31,
-      "Available_Hours": -16
+      "Available_Hours": -85
     },
     {
       "Area": "SORTATION",
       "Turno": "2/6",
       "Week": 32,
-      "Available_Hours": -10
+      "Available_Hours": -61
     },
     {
       "Area": "SORTATION",
       "Turno": "2/6",
       "Week": 33,
-      "Available_Hours": 86
+      "Available_Hours": 38
     },
     {
       "Area": "SORTATION",
@@ -21241,13 +21241,13 @@
       "Area": "SORTATION",
       "Turno": "3/7",
       "Week": 31,
-      "Available_Hours": -54
+      "Available_Hours": -114
     },
     {
       "Area": "SORTATION",
       "Turno": "3/7",
       "Week": 32,
-      "Available_Hours": -16
+      "Available_Hours": -114
     },
     {
       "Area": "SORTATION",
@@ -21559,19 +21559,19 @@
       "Area": "SORTATION",
       "Turno": "4/8",
       "Week": 31,
-      "Available_Hours": -40
+      "Available_Hours": -94
     },
     {
       "Area": "SORTATION",
       "Turno": "4/8",
       "Week": 32,
-      "Available_Hours": -53
+      "Available_Hours": -142
     },
     {
       "Area": "SORTATION",
       "Turno": "4/8",
       "Week": 33,
-      "Available_Hours": -61
+      "Available_Hours": -69
     },
     {
       "Area": "SORTATION",
@@ -21583,7 +21583,7 @@
       "Area": "SORTATION",
       "Turno": "4/8",
       "Week": 35,
-      "Available_Hours": 280
+      "Available_Hours": 320
     },
     {
       "Area": "SORTATION",
@@ -21607,13 +21607,13 @@
       "Area": "SORTATION",
       "Turno": "4/8",
       "Week": 39,
-      "Available_Hours": 53
+      "Available_Hours": 45
     },
     {
       "Area": "SORTATION",
       "Turno": "4/8",
       "Week": 40,
-      "Available_Hours": 200
+      "Available_Hours": 192
     },
     {
       "Area": "SORTATION",
@@ -21649,7 +21649,7 @@
       "Area": "SORTATION",
       "Turno": "4/8",
       "Week": 46,
-      "Available_Hours": 48
+      "Available_Hours": 88
     },
     {
       "Area": "SORTATION",
@@ -21877,49 +21877,49 @@
       "Area": "SORTATION",
       "Turno": "NS",
       "Week": 31,
-      "Available_Hours": 192
+      "Available_Hours": 74
     },
     {
       "Area": "SORTATION",
       "Turno": "NS",
       "Week": 32,
-      "Available_Hours": 243
+      "Available_Hours": 18
     },
     {
       "Area": "SORTATION",
       "Turno": "NS",
       "Week": 33,
-      "Available_Hours": 75
+      "Available_Hours": 35
     },
     {
       "Area": "SORTATION",
       "Turno": "NS",
       "Week": 34,
-      "Available_Hours": 544
+      "Available_Hours": 536
     },
     {
       "Area": "SORTATION",
       "Turno": "NS",
       "Week": 35,
-      "Available_Hours": 544
+      "Available_Hours": 504
     },
     {
       "Area": "SORTATION",
       "Turno": "NS",
       "Week": 36,
-      "Available_Hours": 336
+      "Available_Hours": 312
     },
     {
       "Area": "SORTATION",
       "Turno": "NS",
       "Week": 37,
-      "Available_Hours": 232
+      "Available_Hours": 184
     },
     {
       "Area": "SORTATION",
       "Turno": "NS",
       "Week": 38,
-      "Available_Hours": 421
+      "Available_Hours": 429
     },
     {
       "Area": "SORTATION",
@@ -21979,7 +21979,7 @@
       "Area": "SORTATION",
       "Turno": "NS",
       "Week": 48,
-      "Available_Hours": 128
+      "Available_Hours": 120
     },
     {
       "Area": "SORTATION",
@@ -22195,13 +22195,13 @@
       "Area": "TOM",
       "Turno": "1/5",
       "Week": 31,
-      "Available_Hours": 0
+      "Available_Hours": -6
     },
     {
       "Area": "TOM",
       "Turno": "1/5",
       "Week": 32,
-      "Available_Hours": 11
+      "Available_Hours": 2
     },
     {
       "Area": "TOM",
@@ -22513,13 +22513,13 @@
       "Area": "TOM",
       "Turno": "2/6",
       "Week": 31,
-      "Available_Hours": -4
+      "Available_Hours": -9
     },
     {
       "Area": "TOM",
       "Turno": "2/6",
       "Week": 32,
-      "Available_Hours": -42
+      "Available_Hours": -49
     },
     {
       "Area": "TOM",
@@ -22831,13 +22831,13 @@
       "Area": "TOM",
       "Turno": "3/7",
       "Week": 31,
-      "Available_Hours": -4
+      "Available_Hours": -9
     },
     {
       "Area": "TOM",
       "Turno": "3/7",
       "Week": 32,
-      "Available_Hours": 14
+      "Available_Hours": 7
     },
     {
       "Area": "TOM",
@@ -23149,13 +23149,13 @@
       "Area": "TOM",
       "Turno": "4/8",
       "Week": 31,
-      "Available_Hours": -18
+      "Available_Hours": -22
     },
     {
       "Area": "TOM",
       "Turno": "4/8",
       "Week": 32,
-      "Available_Hours": -8
+      "Available_Hours": -14
     },
     {
       "Area": "TOM",
@@ -23467,13 +23467,13 @@
       "Area": "TOM",
       "Turno": "NS",
       "Week": 31,
-      "Available_Hours": -4
+      "Available_Hours": -17
     },
     {
       "Area": "TOM",
       "Turno": "NS",
       "Week": 32,
-      "Available_Hours": -34
+      "Available_Hours": -41
     },
     {
       "Area": "TOM",
